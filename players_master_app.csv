@@ -1,0 +1,164 @@
+player,team,league,position,nationality,secondNationality,active,dataset
+A. Adli,AFC Bournemouth,Premier League,Attacker,Morocco,France,yes,Europe
+C. Riad,Crystal Palace FC,Premier League,Defender,Morocco,Spain,yes,Europe
+A. Aznou,Everton FC,Premier League,Defender,Morocco,Spain,yes,Europe
+I. Diop,Fulham FC,Premier League,Defender,Morocco,France,yes,Europe
+N. Mazraoui,Manchester United FC,Premier League,Defender,Morocco,Netherlands,yes,Europe
+C. Talbi,Sunderland AFC,Premier League,Attacker,Morocco,Belgium,yes,Europe
+Y. Akhamrich,Tottenham Hotspur FC,Premier League,Attacker,Morocco,England,no,Europe
+N. Aguerd,West Ham United FC,Premier League,Defender,Morocco,,no,Europe
+Y. Oukili,Casa Pia AC,Primeira Liga,Midfielder,Morocco,Netherlands,no,Europe
+A. Oudrhiri,Club Foot Estrela,Primeira Liga,Midfielder,Morocco,France,no,Europe
+N. Touaizi,FC Alverca,Primeira Liga,Attacker,Morocco,Spain,yes,Europe
+Z. Kessary,FC Alverca,Primeira Liga,Midfielder,Morocco,,yes,Europe
+Y. Zabiri,FC Famalicão,Primeira Liga,Attacker,Morocco,,no,Europe
+Y. Begraoui,GD Estoril Praia,Primeira Liga,Attacker,Morocco,France,yes,Europe
+A. El Ouazzani,Sporting Braga,Primeira Liga,Attacker,Morocco,France,yes,Europe
+A. Bellaarouch,Sporting Braga,Primeira Liga,Goalkeeper,Morocco,,yes,Europe
+R. Bounida,AFC Ajax,Eredivisie,Attacker,Morocco,Belgium,yes,Europe
+A. Ouazane,AFC Ajax,Eredivisie,Midfielder,Morocco,Netherlands,yes,Europe
+W. Bouziane,Alkmaar Zaanstreek,Eredivisie,Attacker,Netherlands,Morocco,yes,Europe
+A. Oufkir,Alkmaar Zaanstreek,Eredivisie,Attacker,Netherlands,Morocco,yes,Europe
+Y. Taha,FC Groningen,Eredivisie,Attacker,Morocco,Netherlands,yes,Europe
+I. El Maach,FC Twente,Eredivisie,Goalkeeper,Morocco,Netherlands,yes,Europe
+R. El Arguioui,FC Utrecht,Eredivisie,Midfielder,Morocco,Netherlands,yes,Europe
+O. Agougil,FC Utrecht,Eredivisie,Midfielder,Netherlands,Morocco,yes,Europe
+S. El Karouani,FC Utrecht,Eredivisie,Defender,Morocco,Netherlands,yes,Europe
+B. Ould-Chikh,FC Volendam,Eredivisie,Attacker,Morocco,Netherlands,yes,Europe
+N. Bukala,FC Volendam,Eredivisie,Midfielder,Netherlands,Morocco,yes,Europe
+S. van Persie,Feyenoord Rotterdam,Eredivisie,Attacker,Netherlands,Morocco,yes,Europe
+O. Targhalline,Feyenoord Rotterdam,Eredivisie,Midfielder,Morocco,,yes,Europe
+A. Ouarghi,Feyenoord Rotterdam,Eredivisie,Midfielder,Netherlands,Morocco,yes,Europe
+M. Ihattaren,Fortuna Sittard,Eredivisie,Midfielder,Netherlands,Morocco,yes,Europe
+Y. Oukili,Fortuna Sittard,Eredivisie,Midfielder,Morocco,Netherlands,yes,Europe
+W. Elasri,Fortuna Sittard,Eredivisie,Midfielder,Netherlands,Morocco,yes,Europe
+Y. Salah Rahmouni,Go Ahead Eagles,Eredivisie,Midfielder,Netherlands,Morocco,yes,Europe
+W. Ould-Chikh,Heracles Almelo,Eredivisie,Midfielder,Netherlands,Morocco,yes,Europe
+A. Salama,NAC Breda,Eredivisie,Attacker,France,Morocco,yes,Europe
+B. Ghalidi,NAC Breda,Eredivisie,Attacker,Morocco,Belgium,yes,Europe
+M. Nassoh,NAC Breda,Eredivisie,Midfielder,Morocco,Netherlands,yes,Europe
+S. Ouaissa,Nijmegen Eendracht Combinatie,Eredivisie,Midfielder,Netherlands,Morocco,yes,Europe
+Y. Moslih,Nijmegen Eendracht Combinatie,Eredivisie,Defender,Netherlands,Morocco,yes,Europe
+Y. El Kachati,Nijmegen Eendracht Combinatie,Eredivisie,Attacker,Morocco,Netherlands,yes,Europe
+Y. Sbai,Nijmegen Eendracht Combinatie,Eredivisie,Midfielder,Netherlands,Morocco,no,Europe
+S. Lagsir,PEC Zwolle,Eredivisie,Attacker,Netherlands,Morocco,yes,Europe
+Y. Namli,PEC Zwolle,Eredivisie,Attacker,Denmark,Morocco,yes,Europe
+C. Driouech,PSV Eindhoven,Eredivisie,Attacker,Morocco,Netherlands,yes,Europe
+I. Saibari,PSV Eindhoven,Eredivisie,Midfielder,Morocco,Belgium,yes,Europe
+A. Salah-Eddine,PSV Eindhoven,Eredivisie,Defender,Morocco,Netherlands,yes,Europe
+I. Bronkhorst,SBV Excelsior,Eredivisie,Defender,Netherlands,Morocco,yes,Europe
+M. Hamdaoui,SC Telstar,Eredivisie,Attacker,Netherlands,Morocco,no,Europe
+S. Hetli,SC Telstar,Eredivisie,Attacker,Netherlands,Morocco,yes,Europe
+A. Bouchouari,SC Telstar,Eredivisie,Defender,Netherlands,Morocco,yes,Europe
+A. Lechkar,SC Telstar,Eredivisie,Defender,Netherlands,Morocco,yes,Europe
+Y. el Meftahi,Sparta Rotterdam,Eredivisie,Midfielder,Netherlands,Morocco,yes,Europe
+A. Oufkir,Sparta Rotterdam,Eredivisie,Attacker,Netherlands,Morocco,no,Europe
+F. Harchaoui,1. FC Köln,Bundesliga,Midfielder,Germany,Morocco,yes,Europe
+E. Ben Seghir,Bayer 04 Leverkusen,Bundesliga,Attacker,Morocco,France,yes,Europe
+W. Mohya,Borussia VfL Mönchengladbach,Bundesliga,Midfielder,Germany,Morocco,yes,Europe
+A. Amaimouni-Echghouyab,Eintracht Frankfurt,Bundesliga,Attacker,Morocco,Spain,yes,Europe
+Y. Ebnoutalib,Eintracht Frankfurt,Bundesliga,Attacker,Germany,Morocco,yes,Europe
+A. Dardari,FC Augsburg,Bundesliga,Attacker,Luxembourg,Morocco,no,Europe
+L. Openda,RasenBallsport Leipzig,Bundesliga,Attacker,Belgium,Morocco,no,Europe
+B. El Khannouss,VfB Stuttgart 1893,Bundesliga,Midfielder,Morocco,Belgium,yes,Europe
+Y. Benchaouch,AS Monaco FC,Ligue 1,Goalkeeper,Morocco,France,yes,Europe
+E. Ben Seghir,AS Monaco FC,Ligue 1,Attacker,Morocco,France,no,Europe
+A. Sbaï,Angers Sporting Club de l'Ouest,Ligue 1,Attacker,Morocco,France,yes,Europe
+Y. Belkhdim,Angers Sporting Club de l'Ouest,Ligue 1,Midfielder,Morocco,France,yes,Europe
+S. Agouzoul,Association Jeunesse Auxerroise,Ligue 1,Defender,Morocco,,no,Europe
+O. El Azzouzi,Association Jeunesse Auxerroise,Ligue 1,Midfielder,Morocco,Netherlands,yes,Europe
+I. Guerti,FC Metz,Ligue 1,Midfielder,Morocco,France,yes,Europe
+Y. El-Arabi,FC Nantes,Ligue 1,Attacker,Morocco,France,yes,Europe
+O. El Hajjam,Le Havre AC,Ligue 1,Defender,Morocco,France,no,Europe
+Y. Kechta,Le Havre AC,Ligue 1,Midfielder,Morocco,France,yes,Europe
+S. Boufal,Le Havre AC,Ligue 1,Midfielder,Morocco,France,yes,Europe
+Y. Namli,Le Havre AC,Ligue 1,Attacker,Denmark,Morocco,no,Europe
+O. Sahraoui,Lille OSC,Ligue 1,Attacker,Morocco,Norway,yes,Europe
+H. Igamane,Lille OSC,Ligue 1,Attacker,Morocco,,yes,Europe
+A. Bouaddi,Lille OSC,Ligue 1,Midfielder,France,Morocco,yes,Europe
+S. Diop,OGC Nice Côte d'Azur,Ligue 1,Midfielder,Morocco,France,yes,Europe
+H. Koutoune,OGC Nice Côte d'Azur,Ligue 1,Defender,Morocco,,no,Europe
+N. Aguerd,Olympique de Marseille,Ligue 1,Defender,Morocco,,yes,Europe
+A. Ounahi,Olympique de Marseille,Ligue 1,Midfielder,Morocco,,no,Europe
+B. Nadir,Olympique de Marseille,Ligue 1,Midfielder,Morocco,France,yes,Europe
+A. Harit,Olympique de Marseille,Ligue 1,Midfielder,Morocco,France,no,Europe
+M. Tourraine,Paris FC,Ligue 1,Defender,Morocco,France,no,Europe
+S. Alakouch,Paris FC,Ligue 1,Defender,Morocco,France,yes,Europe
+A. Hakimi,Paris Saint-Germain FC,Ligue 1,Defender,Morocco,Spain,yes,Europe
+Y. Khafi,Paris Saint-Germain FC,Ligue 1,Midfielder,France,Morocco,yes,Europe
+G. Yassine,RC Strasbourg Alsace,Ligue 1,Attacker,Morocco,France,yes,Europe
+S. El Mourabet,RC Strasbourg Alsace,Ligue 1,Midfielder,Morocco,France,yes,Europe
+Y. Zabiri,Stade Rennais FC,Ligue 1,Attacker,Morocco,,yes,Europe
+A. Aït Boudlal,Stade Rennais FC,Ligue 1,Defender,Morocco,,yes,Europe
+I. Salah,Stade Rennais FC,Ligue 1,Attacker,Morocco,Belgium,no,Europe
+A. Akabou,Stade Rennais FC,Ligue 1,Goalkeeper,France,Morocco,yes,Europe
+A. El Ouali,Toulouse FC,Ligue 1,Midfielder,France,Morocco,yes,Europe
+I. Azizi,Toulouse FC,Ligue 1,Attacker,France,Morocco,yes,Europe
+A. Sabiri,ACF Fiorentina,Serie A,Midfielder,Morocco,Germany,yes,Europe
+A. Richardson,ACF Fiorentina,Serie A,Midfielder,Morocco,France,no,Europe
+N. El Aynaoui,AS Roma,Serie A,Midfielder,Morocco,France,yes,Europe
+A. Salah-Eddine,AS Roma,Serie A,Defender,Morocco,Netherlands,no,Europe
+N. Byar,Bologna FC 1909,Serie A,Midfielder,Morocco,France,no,Europe
+R. Idrissi,Cagliari Calcio,Serie A,Defender,Italy,Morocco,yes,Europe
+A. Harroui,Hellas Verona FC,Serie A,Midfielder,Morocco,Netherlands,yes,Europe
+L. Openda,Juventus FC,Serie A,Attacker,Belgium,Morocco,yes,Europe
+J. Rouhi,Juventus FC,Serie A,Defender,Sweden,Morocco,no,Europe
+A. Haj Mohamed,Parma Calcio 1913,Serie A,Attacker,Tunisia,Morocco,no,Europe
+M. Guendouzi,SS Lazio,Serie A,Midfielder,France,Morocco,no,Europe
+R. Belahyane,SS Lazio,Serie A,Midfielder,Morocco,France,yes,Europe
+W. Cheddira,SSC Napoli,Serie A,Attacker,Morocco,Italy,no,Europe
+A. Masina,Torino FC,Serie A,Defender,Morocco,Italy,no,Europe
+Z. Aboukhlal,Torino FC,Serie A,Attacker,Morocco,Netherlands,yes,Europe
+Y. Maleh,US Cremonese,Serie A,Midfielder,Morocco,Italy,yes,Europe
+W. Cheddira,US Lecce,Serie A,Attacker,Morocco,Italy,yes,Europe
+Y. Maleh,US Lecce,Serie A,Midfielder,Morocco,Italy,no,Europe
+W. Cheddira,US Sassuolo Calcio,Serie A,Attacker,Morocco,Italy,no,Europe
+M. Sannadi,Athletic Club,Primera División,Attacker,Morocco,Spain,yes,Europe
+Y. Enríquez,Deportivo Alavés,Primera División,Defender,Morocco,Spain,yes,Europe
+A. Houary,Elche CF,Primera División,Attacker,Morocco,Spain,no,Europe
+M. El Ghezouani,Elche CF,Primera División,Attacker,Morocco,Spain,no,Europe
+N. Al Lal,Elche CF,Primera División,Attacker,Morocco,Spain,no,Europe
+A. El Mokhtari,Elche CF,Primera División,Attacker,Morocco,Spain,yes,Europe
+I. Bekhoucha,Getafe CF,Primera División,Defender,Morocco,Spain,yes,Europe
+Y. Tallal,Getafe CF,Primera División,Attacker,Morocco,Spain,yes,Europe
+A. Abqar,Getafe CF,Primera División,Defender,Morocco,,yes,Europe
+A. Ounahi,Girona FC,Primera División,Midfielder,Morocco,,yes,Europe
+I. Akhomach,Rayo Vallecano de Madrid,Primera División,Attacker,Morocco,Spain,yes,Europe
+S. Amrabat,Real Betis Balompié,Primera División,Midfielder,Morocco,Netherlands,yes,Europe
+A. Ezzalzouli,Real Betis Balompié,Primera División,Attacker,Morocco,Spain,yes,Europe
+J. El Abdellaoui,Real Club Celta de Vigo,Primera División,Attacker,Morocco,Norway,yes,Europe
+I. Salhi,Real Club Deportivo Mallorca,Primera División,Defender,France,Morocco,yes,Europe
+Brahim Díaz,Real Madrid CF,Primera División,Midfielder,Morocco,Spain,yes,Europe
+Thiago Pitarch,Real Madrid CF,Primera División,Midfielder,Spain,Morocco,yes,Europe
+I. Chaira,Real Oviedo,Primera División,Attacker,Morocco,Spain,yes,Europe
+O. El Hilali,Reial Club Deportiu Espanyol de Barcelona,Primera División,Defender,Morocco,Spain,yes,Europe
+I. Akhomach,Villarreal CF,Primera División,Attacker,Morocco,Spain,no,Europe
+N. Moutha-Sebtaoui,FCV Dender EH,First Division A,Defender,Morocco,Belgium,yes,Europe
+H. Essaoubi,KAA Gent,First Division A,Defender,Morocco,,yes,Europe
+M. El Âdfaoui,KAA Gent,First Division A,Midfielder,Belgium,Morocco,yes,Europe
+I. Kandouss,KAA Gent,First Division A,Defender,Morocco,France,no,Europe
+Z. El Ouahdi,KRC Genk,First Division A,Defender,Morocco,Belgium,yes,Europe
+R. Halhal,KV Mechelen,First Division A,Defender,Morocco,France,yes,Europe
+A. Et-Taïbi,KV Mechelen,First Division A,Defender,Morocco,Belgium,no,Europe
+A. Ouahabi,KV Mechelen,First Division A,Midfielder,Morocco,Belgium,yes,Europe
+M. Zekri,KV Mechelen,First Division A,Defender,Morocco,Belgium,yes,Europe
+R. Laalaloui,KVC Westerlo,First Division A,Midfielder,Morocco,,yes,Europe
+N. Bohamdi-Kamoni,KVC Westerlo,First Division A,Attacker,Belgium,Morocco,yes,Europe
+Y. Azzouz,Oud-Heverlee Leuven,First Division A,Midfielder,Morocco,Belgium,yes,Europe
+Y. Maziz,Oud-Heverlee Leuven,First Division A,Midfielder,France,Morocco,yes,Europe
+S. Lahssaini,RAAL La Louvière,First Division A,Midfielder,Belgium,Morocco,yes,Europe
+A. Tajaouart,RSC Anderlecht,First Division A,Midfielder,Morocco,Belgium,yes,Europe
+A. Maamar,RSC Anderlecht,First Division A,Defender,Morocco,Belgium,yes,Europe
+E. Dao,RSC Anderlecht,First Division A,Attacker,Morocco,France,yes,Europe
+Y. Hamdaoui,Royal Antwerp FC,First Division A,Midfielder,Morocco,Belgium,yes,Europe
+M. Boukamir,Royal Charleroi SC,First Division A,Defender,Morocco,Belgium,yes,Europe
+Y. Khalifi,Royal Charleroi SC,First Division A,Midfielder,Morocco,,yes,Europe
+A. Boukamir,Royal Charleroi SC,First Division A,Midfielder,Morocco,Belgium,yes,Europe
+A. Mulumba,Royal Charleroi SC,First Division A,Attacker,Belgium,Morocco,no,Europe
+M. El Hankouri,Royal Standard de Liège,First Division A,Attacker,Morocco,Netherlands,yes,Europe
+A. Abid,Royal Standard de Liège,First Division A,Attacker,Belgium,Morocco,yes,Europe
+A. Ait El Hadj,Royale Union Saint-Gilloise,First Division A,Midfielder,Belgium,Morocco,yes,Europe
+S. Berradi,Royale Union Saint-Gilloise,First Division A,Midfielder,Belgium,Morocco,yes,Europe
+S. Boufal,Royale Union Saint-Gilloise,First Division A,Midfielder,Morocco,France,no,Europe
+I. Benachour,Sint-Truidense VV,First Division A,Midfielder,Morocco,Belgium,yes,Europe
+I. Sebaoui,Sint-Truidense VV,First Division A,Attacker,Morocco,Belgium,yes,Europe
