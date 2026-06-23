@@ -645,9 +645,9 @@ def radar_values(row):
 
 # Robust path: works with Data/Final or Data/final
 try:
-    players = pd.read_csv("Data/Final/players_master_final.csv")
+    players = pd.read_csv("players_master_final.csv")
 except FileNotFoundError:
-    players = pd.read_csv("Data/final/players_master_final.csv")
+    players = pd.read_csv("players_master_final.csv")
 
 # Basic columns fallback
 for col in ["player", "team", "league", "position", "nationality", "dataset", "age", "elo", "market_value", "minutes", "goals", "xg"]:
