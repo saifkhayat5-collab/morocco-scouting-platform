@@ -764,10 +764,10 @@ players["scouting_score"] = players["scouting_score"].clip(40, 88).round(1)
 # Remove duplicates: keep the best version of each player (Wyscout KPIs / key player / Europe / higher score)
 def source_priority(value):
     value = str(value).lower()
-    if "manual" in value:
+    if "wyscout" in value:
         return 4
-    if "rabie" in value:
-        return 3
+    if "manual" in value:
+        return 2
     if "estimated" in value:
         return 1
     return 2
