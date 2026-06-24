@@ -1,0 +1,501 @@
+player,team,specific_position,age,market_value,contract_expiration,Matchs joués  ,Minutes jouées  ,goals,xg,birth_country,Passeport pays  ,foot,height,weight,loan
+A. Hakimi,PSG,RB,27.0,60000000,2029-06-30,46,4215,5,6.21,Spain,"Spain, Morocco",droite,181,73,non
+A. Adli,Bournemouth,"LAMF, RAMF",26.0,30000000,2030-06-30,34,1463,3,3.04,France,"France, Morocco",gauche,174,72,non
+N. Mazraoui,Manchester United,"LB, RB, RCB",28.0,30000000,2028-06-30,27,1825,0,0.11,Netherlands,"Netherlands, Morocco",droite,183,65,non
+S. Amrabat,Real Betis,"RDMF, DMF, RCMF",29.0,22000000,2028-06-30,34,2638,2,0.29,Netherlands,"Netherlands, Morocco",droite,185,82,oui
+I. Saibari,PSV,"CF, AMF, LCMF",25.0,16000000,2029-06-30,47,4007,22,16.21,Morocco,"Morocco, Belgium",droite,185,81,non
+Ilias Akhomach,Rayo Vallecano,"RAMF, RW, RWF",22.0,15000000,2028-06-30,34,1535,1,2.84,Spain,"Spain, Morocco",gauche,174,68,oui
+Chadi Riad,Crystal Palace,LCB,22.0,15000000,2029-06-30,12,862,0,0.98,Spain,"Spain, Morocco",gauche,187,77,non
+A. Harit,İstanbul Başakşehir,LAMF,28.0,15000000,2027-06-30,24,1664,2,2.13,France,"France, Morocco",droite,180,67,oui
+A. Ounahi,Girona,"LCMF, CF, AMF",26.0,12000000,2030-06-30,28,2150,6,4.85,Morocco,Morocco,droite,182,62,non
+Z. Aboukhlal,Torino,"LWB, RWF",26.0,10000000,2029-06-30,18,734,0,0.85,Netherlands,"Netherlands, Morocco",gauche,179,73,non
+Y. Bounou,Al Hilal,GK,35.0,9000000,2028-06-30,50,5217,0,0.0,Canada,"Canada, Morocco",gauche,195,78,non
+O. Sahraoui,Lille,"LAMF, LW, AMF",24.0,8500000,2029-06-30,25,949,1,1.43,Norway,"Norway, Morocco",droite,170,65,non
+N. El Aynaoui,Roma,"RCMF, DMF, LCMF",24.0,8000000,2030-06-30,44,2975,2,3.1,France,"France, Morocco",droite,185,77,non
+A. Abqar,Getafe,"RCB, CB",27.0,7500000,2028-06-30,24,1606,0,0.17,Morocco,Morocco,droite,188,80,non
+I. Chair,Queens Park Rangers,"LW, AMF, LAMF",28.0,7000000,,15,1052,1,2.53,Belgium,"Belgium, Morocco",droite,158,53,non
+T. Tissoudali,Khorfakkan,"CF, LW",33.0,6500000,2027-06-30,33,2872,12,9.78,Netherlands,"Netherlands, Morocco",droite,182,74,non
+W. Cheddira,Lecce,CF,28.0,6000000,2028-06-30,34,1450,4,4.32,Italy,"Italy, Morocco",droite,186,79,oui
+S. Boufal,Le Havre,"AMF, CF, LWF",32.0,6000000,2026-06-30,32,1486,1,2.42,France,"France, Morocco",droite,175,75,non
+Y. Kechta,Le Havre,"LCMF, RCMF, LAMF",24.0,5000000,2026-06-30,31,1535,2,2.1,Morocco,"Morocco, France",gauche,166,59,non
+A. El Kaabi,Olympiacos Piraeus,CF,32.0,5000000,2028-06-30,50,3723,25,25.9,Morocco,Morocco,gauche,182,76,non
+Y. Maleh,Cremonese,"LCMF, DMF",27.0,4500000,2027-06-30,23,1681,1,0.42,Italy,"Italy, Morocco",gauche,177,74,oui
+Z. El Ouahdi,Genk,"RB, RWB",24.0,4500000,2028-06-30,45,4377,12,7.55,Belgium,"Belgium, Morocco",droite,172,66,non
+C. Driouech,PSV,"LW, LAMF, LWF",24.0,4000000,2029-06-30,40,1485,9,6.41,Netherlands,"Netherlands, Morocco",droite,175,64,non
+R. Saïss,Al Sadd,LCB,36.0,3200000,2026-06-30,17,1367,0,0.55,France,"France, Morocco",gauche,188,76,non
+A. El Mahdioui,Al Taawon,"DMF, LCMF",30.0,3000000,2026-06-30,41,3826,1,0.62,Netherlands,"Netherlands, Morocco",droite,185,77,non
+I. Kandouss,RSB Berkane,RCB,28.0,3000000,2027-06-30,33,3174,0,0.68,France,"France, Morocco",droite,192,83,non
+A. Harroui,Hellas Verona,"LCMF, RCMF",28.0,2700000,2028-06-30,23,995,1,1.56,Netherlands,"Netherlands, Morocco",droite,182,76,non
+A. Hamdallah,Al Shabab,CF,35.0,2600000,2027-06-30,20,1635,10,11.65,Morocco,Morocco,droite,182,75,non
+O. El Azzouzi,Auxerre,"DMF, RCMF",25.0,2500000,2027-06-30,11,845,1,0.45,Netherlands,"Netherlands, Morocco",droite,189,75,oui
+A. El Ghazi,Al Sailiya,"LAMF, CF, LW",31.0,2500000,2027-06-30,19,1327,3,3.74,Netherlands,"Netherlands, Morocco",droite,189,90,non
+B. Bouchouari,Trabzonspor,"RDMF, RCMF, LDMF",24.0,2500000,2028-06-30,17,705,0,0.35,Belgium,"Belgium, Morocco",droite,165,65,non
+Munir El Haddadi,Esteghlal,"AMF, LCMF, RCMF",30.0,2500000,2027-06-30,8,619,1,1.31,Spain,"Spain, Morocco",gauche,177,69,non
+S. El Karouani,Utrecht,LB,25.0,2400000,2026-06-30,52,4655,4,3.52,Netherlands,"Netherlands, Morocco",gauche,178,74,non
+M. Bouldini,Granada,CF,30.0,2200000,2028-06-30,17,489,0,1.08,Morocco,Morocco,droite,187,88,oui
+R. Slim,FAR Rabat,"RAMF, RW",26.0,2200000,2027-06-30,30,1966,4,3.93,Morocco,Morocco,droite,176,64,oui
+Aïmen Moueffek,Saint-Étienne,"RCMF, AMF",25.0,2000000,2028-06-30,33,1588,1,1.95,France,"France, Morocco",droite,179,71,non
+O. El Hilali,Espanyol,RB,22.0,2000000,2027-06-30,37,3110,0,0.01,Spain,"Spain, Morocco",droite,183,75,non
+A. El Ouazzani,Sporting Braga,CF,24.0,2000000,2029-06-30,22,1230,2,4.36,France,"France, Morocco",gauche,188,75,non
+M. Chouiar,RSB Berkane,"AMF, LW, LAMF",27.0,1800000,2028-06-30,45,3729,11,7.97,France,"France, Morocco",droite,177,75,non
+S. Bouftini,Al Wasl,RCB,32.0,1800000,2026-06-30,35,3188,2,4.13,Morocco,Morocco,droite,191,85,non
+E. Benabid,Wydad Casablanca,GK,28.0,1800000,2027-06-30,37,3695,0,0.0,Morocco,Morocco,droite,188,80,non
+Y. Oukili,Fortuna Sittard,"RCMF, LCMF",25.0,1700000,2028-06-30,21,1020,2,1.96,Netherlands,"Netherlands, Morocco",droite,195,75,non
+O. Tannane,Umm Salal,"AMF, CF, RW",32.0,1700000,2026-06-30,28,2582,10,5.6,Morocco,"Morocco, Netherlands",gauche,178,80,non
+I. Chaira,Real Oviedo,"LAMF, RAMF, LW",25.0,1600000,2028-06-30,39,2903,7,8.49,Spain,"Spain, Morocco",droite,186,75,non
+Y. Namli,PEC Zwolle,"RWF, RW, RAMF",31.0,1600000,2028-06-30,26,1590,2,2.9,Denmark,"Denmark, Morocco",gauche,180,70,non
+M. Hrimat,FAR Rabat,"LDMF, LCMF",31.0,1600000,2027-06-30,45,4497,12,11.27,Morocco,Morocco,droite,186,0,non
+J. El Yamiq,Real Zaragoza,"RCB, LCB",34.0,1600000,2026-06-30,24,2271,1,2.89,Morocco,Morocco,droite,193,80,non
+M. Azarkan,Al Nasr,"RW, RAMF, RWF",24.0,1500000,2026-06-30,14,531,0,0.18,Netherlands,"Netherlands, Morocco",gauche,165,60,non
+S. Amallah,Khorfakkan,"CF, AMF",29.0,1500000,2027-06-30,13,993,2,1.4,Belgium,"Belgium, Morocco",droite,185,81,non
+W. El Karti,Pyramids,"LDMF, AMF, RDMF",31.0,1500000,2028-06-30,35,2806,3,1.75,Morocco,Morocco,droite,185,77,non
+Y. Maziz,OH Leuven,"AMF, LCMF, LWF",27.0,1500000,2026-06-30,38,2450,3,4.99,France,"France, Morocco",droite,175,76,non
+Y. Belhanda,Al Sailiya,AMF,36.0,1500000,2026-06-30,18,1213,3,1.41,France,"France, Morocco",droite,175,75,non
+F. Moufi,Orenburg,"RB, RWB",30.0,1500000,2027-06-30,27,2521,1,2.4,France,"France, Morocco",droite,179,70,non
+B. Benoun,Raja Casablanca,"RCB, LCB",32.0,1400000,,19,1769,0,1.21,Morocco,Morocco,droite,193,79,non
+Y. Jabrane,Ajman,"RCMF, LCMF",34.0,1300000,,11,730,0,0.17,Morocco,Morocco,droite,187,0,non
+H. Mendyl,Aris,LB,28.0,1300000,2026-06-30,14,939,0,0.07,Morocco,"Morocco, Côte d'Ivoire",gauche,179,73,non
+Y. Belammari,Al Ahly,LB,27.0,1300000,2029-06-30,28,2654,0,1.45,Morocco,Morocco,gauche,183,0,non
+J. Harkass,Dhamk,RCB,30.0,1200000,2027-06-30,34,3144,2,1.61,Morocco,Morocco,droite,185,0,non
+A. Salah-Eddine,PSV,LB,24.0,1200000,2028-06-30,29,2039,0,0.58,Netherlands,"Netherlands, Morocco",gauche,181,70,oui
+M. Bourabia,,"AMF, CF",34.0,1000000,,14,1044,1,0.5,France,"France, Morocco",droite,183,73,non
+M. Tourraine,Clermont,"RB, LB, RWB",25.0,1000000,2027-06-30,16,587,0,0.62,France,"France, Morocco",droite,172,68,oui
+K. El Berkaoui,Al Dhafra,"CF, RAMF",31.0,1000000,2026-06-30,28,2252,13,8.06,Morocco,Morocco,droite,175,68,non
+I. Mokadem,Raja Casablanca,"LB, LCB",30.0,1000000,2027-06-30,20,1593,0,1.27,Morocco,Morocco,droite,181,76,non
+M. Al Makahasi,Raja Casablanca,"RDMF, LDMF, RCMF",31.0,1000000,2027-06-30,19,1847,0,0.37,Morocco,Morocco,droite,177,0,non
+A. Ennaffati,Raja Casablanca,"LAMF, RAMF, RWF",31.0,1000000,2026-06-30,15,1200,6,4.49,Morocco,Morocco,droite,180,0,non
+A. Barkok,Raja Casablanca,"RCMF, RDMF, LCMF",28.0,1000000,,11,619,0,0.33,Germany,"Germany, Morocco",droite,189,82,non
+M. Chibi,Pyramids,RB,33.0,1000000,2028-06-30,36,3479,2,1.9,Morocco,Morocco,droite,175,72,non
+Y. El Motie,Olympic Safi,GK,31.0,1000000,2027-06-30,7,640,0,0.0,Morocco,Morocco,droite,193,0,non
+M. El Hankouri,Standard Liège,"AMF, LCMF",28.0,1000000,2027-06-30,17,916,0,0.52,Netherlands,"Netherlands, Morocco",droite,176,63,non
+I. Faraj,Neftchi,"LW, LAMF, RW",27.0,900000,2028-06-30,32,2607,7,7.47,France,"France, Morocco",droite,177,64,non
+B. Brahimi,Viborg,"RWF, RAMF, RW",26.0,900000,2029-06-30,21,1234,3,1.9,France,"France, Morocco",gauche,177,70,non
+F. Fajr,Al Jubail,"AMF, LAMF, LW",37.0,900000,,31,3122,3,3.88,France,"France, Morocco",droite,179,72,non
+H. El Moussaoui,RSB Berkane,LB,33.0,900000,2026-06-30,30,2871,1,0.84,Morocco,Morocco,,181,0,non
+S. Bougrine,Raja Casablanca,"AMF, CF, LCMF",29.0,900000,2027-06-30,28,2042,2,2.3,Belgium,"Belgium, Morocco",droite,174,68,non
+A. Zniti,RSB Berkane,GK,37.0,900000,2026-06-30,18,1807,0,0.0,Morocco,Morocco,droite,182,0,non
+Y. Begraoui,Estoril,"CF, RWF",24.0,900000,2028-06-30,34,2938,20,13.65,France,"France, Morocco",droite,179,72,non
+A. Tuhami,Ceuta,RB,31.0,900000,2027-06-30,26,2046,0,0.71,Spain,"Spain, Morocco",droite,174,71,non
+Munir El Kajoui,RSB Berkane,GK,37.0,850000,2026-06-30,11,1174,0,0.0,Morocco,"Morocco, Spain",droite,190,89,non
+Issam Faiz,Al Nasr,"LCMF, RCMF, LDMF",26.0,800000,2030-06-30,21,1484,1,0.59,Morocco,"Morocco, United Arab Emirates",droite,175,75,non
+Mourad,Club Tijuana,CF,28.0,800000,2027-06-30,30,2068,5,4.88,Spain,"Spain, Morocco",droite,190,85,non
+W. Ould-Chikh,Heracles,"LW, LAMF, CF",26.0,800000,2027-06-30,28,1840,2,1.41,Netherlands,"Netherlands, Morocco",droite,186,75,oui
+I. Chouaref,Sion,"LAMF, RAMF, RW",25.0,800000,2028-06-30,48,3924,10,7.07,France,"France, Morocco",droite,175,65,non
+O. El Hajjam,Bordeaux,RB,35.0,800000,2026-06-30,15,1349,0,0.69,France,"France, Morocco",droite,180,72,non
+A. Sbaï,Angers SCO,"LAMF, CF, LW",25.0,800000,2027-06-30,28,2150,4,6.02,France,"France, Morocco",droite,175,67,non
+A. Belhadji,Ceramica,"LCMF, AMF",28.0,800000,2027-06-30,29,2045,3,4.37,Morocco,"Morocco, Spain",les deux,176,0,non
+A. Tahif,Umm Salal,"LCB, RCB",25.0,750000,,20,1835,0,0.74,Morocco,Morocco,droite,181,0,non
+A. Tahiri,Maghreb Fès,"AMF, LCMF, CF",31.0,750000,2027-06-30,21,1289,0,0.89,Belgium,"Belgium, Morocco",droite,179,66,non
+A. Bach,FAR Rabat,RB,28.0,750000,2028-06-30,47,4535,2,1.53,Morocco,Morocco,droite,176,74,non
+Y. Bakiz,Silkeborg,"AMF, LWF",27.0,700000,2028-06-30,28,1819,2,3.29,Denmark,"Denmark, Morocco",droite,171,65,non
+M. Nassoh,NAC Breda,"AMF, RCMF, CF",23.0,700000,2029-06-30,29,2050,5,4.19,Netherlands,"Netherlands, Morocco",droite,188,76,non
+H. Faik,Al Bukayriyah,"LCMF, AMF",34.0,700000,2026-06-30,35,3556,1,2.1,Netherlands,"Netherlands, Morocco",gauche,189,82,non
+S. Agouzoul,Omonia Nicosia,"LCB, RCB",28.0,700000,2026-06-30,17,1434,0,0.0,Morocco,Morocco,gauche,191,75,oui
+Z. Labyad,Corinthians,"RW, LAMF",33.0,700000,2026-12-31,30,1679,6,5.35,Netherlands,"Netherlands, Morocco",les deux,175,74,non
+A. Talal,Tobol,"CF, RWF, AMF",30.0,700000,2026-12-31,11,514,1,0.74,Morocco,Morocco,gauche,176,70,non
+H. Boumous,Selangor,AMF,30.0,700000,,14,1055,2,1.08,France,"France, Morocco",droite,172,69,non
+M. El Idrissy,Troyes,CF,27.0,700000,2026-06-30,28,887,4,2.75,France,"France, Morocco",droite,181,72,non
+A. Khafifi,Raja Casablanca,"LCB, RCB",33.0,700000,2027-06-30,20,1952,3,1.22,Morocco,Morocco,droite,183,0,non
+Y. Aït Bennasser,Kayserispor,"RCB, DMF, RDMF",29.0,700000,2027-06-30,21,1585,0,0.18,France,"France, Morocco",droite,184,78,non
+A. Tagnaouti,FAR Rabat,GK,30.0,700000,,27,2707,0,0.0,Morocco,Morocco,droite,192,70,non
+Y. Lebhiri,RSB Berkane,"LCMF, DMF, LDMF",31.0,700000,2029-06-30,20,1683,1,1.68,Morocco,Morocco,,0,0,non
+H. Mahou,Lugano,"LAMF, LWB, LW",26.0,700000,2026-06-30,24,1169,1,1.67,France,"France, Morocco",droite,180,71,non
+Y. El Fahli,FAR Rabat,"CF, RAMF",29.0,700000,,31,2695,7,4.68,Morocco,Morocco,droite,182,70,non
+S. Oukhadda,Casertana,"RB, RWB",27.0,650000,2026-06-30,39,3526,1,1.44,Italy,"Italy, Morocco",droite,187,80,non
+M. Batna,Al Fateh,"CF, RAMF, RW",35.0,650000,2027-06-30,32,2930,10,15.48,Morocco,Morocco,droite,185,76,non
+N. Sadaoui,Kerala Blasters,"LAMF, LWF, LW",32.0,650000,,17,1089,1,2.27,Morocco,"Morocco, United States",droite,180,72,non
+A. Zoubir,Qarabag,"LAMF, AMF, LWF",34.0,650000,2027-06-30,50,3791,9,11.78,France,"France, Morocco",droite,180,75,non
+M. Taabouni,Al Sailiya,"LAMF, CF, LW",24.0,650000,2026-06-30,14,942,0,1.69,Netherlands,"Netherlands, Morocco",droite,178,68,non
+S. Chihab,Maghreb Fès,GK,33.0,650000,2028-06-30,22,2216,0,0.0,Morocco,Morocco,droite,198,0,non
+M. Louadni,FAR Rabat,"RCB, LCB",31.0,650000,2027-06-30,38,3480,0,4.02,Morocco,Morocco,,182,0,non
+A. Assal,RSB Berkane,"LCB, RCB, RB",28.0,650000,2026-06-30,24,2249,0,0.45,Morocco,Morocco,droite,190,0,non
+A. El Msane,FUS Rabat,LCB,31.0,650000,,19,1835,0,0.63,Morocco,Morocco,gauche,169,64,non
+M. Saadane,Al Fateh,"LCB, CB",34.0,650000,2026-06-30,38,3658,0,2.11,Morocco,Morocco,droite,188,83,non
+H. Hamiani,Olympic Safi,GK,32.0,650000,2027-06-30,26,2575,0,0.0,Morocco,Morocco,droite,187,0,non
+H. Ahadad,Hassania Agadir,"CF, AMF, LWF",31.0,650000,,15,862,0,1.26,Morocco,Morocco,droite,178,78,non
+H. Khaba,FAR Rabat,CF,30.0,650000,2027-06-30,26,1308,3,5.62,Morocco,Morocco,droite,187,0,non
+A. Majid,CODM Meknès,GK,31.0,650000,2027-06-30,14,1385,0,0.0,Morocco,Morocco,,182,0,non
+A. Khammas,Raja Casablanca,LB,27.0,650000,2030-06-30,21,1296,0,1.01,Belgium,"Belgium, Morocco",gauche,172,68,non
+Z. Marour,Yacoub El Mansour,LCB,31.0,650000,2026-06-30,23,2293,0,2.09,Morocco,Morocco,gauche,182,0,non
+A. El Messaoudi,Qingdao Hainiu,"AMF, LWF, CF",30.0,600000,,30,2590,6,7.53,Belgium,"Belgium, Morocco",droite,182,83,non
+N. Chadli,Bani Yas,"CF, RAMF, RW",24.0,600000,2028-06-30,27,1163,3,3.19,France,"France, Morocco",gauche,181,70,oui
+E. Maouhoub,Dinamo Moskva,"RWF, CF, RW",22.0,600000,2029-06-30,21,853,3,3.66,Morocco,Morocco,droite,186,73,non
+A. Azhil,Borussia Dortmund II,"RDMF, RB, DMF",25.0,600000,2027-06-30,30,2414,1,1.22,Germany,"Germany, Morocco",droite,175,67,non
+A. Assal,Al Wakrah,"LAMF, RAMF, LW",24.0,600000,2028-06-30,22,1486,4,4.76,England,"England, Morocco",droite,162,62,non
+A. Harmach,Maghreb Fès,"RCMF, RDMF",33.0,600000,2027-06-30,19,1496,2,0.86,France,"France, Morocco",,176,0,non
+A. Souane,FUS Rabat,"RAMF, RW",24.0,600000,2027-06-30,24,1436,3,4.66,Morocco,Morocco,droite,182,0,non
+Z. Machach,RSB Berkane,"AMF, CF, LCMF",30.0,600000,2026-06-30,25,1182,1,2.28,France,"France, Morocco",droite,185,77,non
+S. El Moudane,Olympic Safi,"LDMF, RCMF, LCMF",32.0,600000,2026-06-30,20,1735,6,4.11,Morocco,Morocco,droite,178,82,non
+M. Bahsain,Hassania Agadir,"LB, LCB, RCB",27.0,600000,2027-06-30,20,2020,0,0.1,Morocco,Morocco,gauche,180,0,non
+M. El Allouchi,Willem II,LW,31.0,600000,2026-06-30,38,2400,5,7.66,Netherlands,"Netherlands, Morocco",droite,172,72,non
+Y. Abdelhamid,FAR Rabat,"LCB, CB",38.0,600000,2026-06-30,21,1457,1,1.21,France,"France, Morocco",gauche,190,83,non
+B. Ould-Chikh,Volendam,"RAMF, RWF, RW",28.0,600000,2027-06-30,22,1591,1,1.73,Netherlands,"Netherlands, Morocco",gauche,170,59,oui
+M. Rayhi,Wydad Casablanca,"LAMF, LW, CF",31.0,600000,2026-06-30,16,744,0,1.62,Netherlands,"Netherlands, Morocco",gauche,178,67,non
+I. Oulad Omar,Noah,"AMF, LCMF, CF",28.0,600000,2027-06-30,29,1335,8,4.98,Netherlands,"Netherlands, Morocco",les deux,183,77,non
+O. Jerrari,Difaâ El Jadida,LB,31.0,550000,,10,887,0,0.0,Morocco,Morocco,gauche,177,0,non
+M. Edjouma,Qingdao Hainiu,"LDMF, LCMF, RDMF",29.0,550000,2026-06-30,30,1921,4,3.12,France,"France, Morocco",droite,191,86,non
+Z. Derrag,FAR Rabat,"RDMF, RCMF",27.0,550000,2028-06-30,22,1879,0,0.88,Morocco,Morocco,droite,171,0,non
+S. Chakla,Iraklis 1908,"RCB, LCB",32.0,550000,2027-06-30,25,2338,3,1.44,Morocco,"Morocco, Spain",droite,188,77,non
+H. Regragui,UTS Rabat,"LCB, DMF, RCMF",28.0,550000,,17,1550,0,1.49,Morocco,Morocco,les deux,190,0,non
+L. Naji,CODM Meknès,"DMF, LDMF",35.0,550000,,19,1894,2,1.27,Morocco,Morocco,droite,185,0,non
+O. Lamlioui,RSB Berkane,CF,30.0,550000,,25,2053,12,9.75,Morocco,Morocco,les deux,180,70,non
+M. El Morabit,RSB Berkane,"AMF, LW, RCMF",27.0,550000,2026-06-30,21,724,1,0.66,Morocco,Morocco,droite,179,0,non
+S. Bouhra,Khalidiya ,"LW, LAMF, RAMF",26.0,550000,,23,1829,5,6.08,Morocco,Morocco,droite,178,0,non
+A. Hammoudan,FAR Rabat,"LAMF, LW",34.0,550000,,35,2289,2,4.74,Morocco,Morocco,droite,176,67,non
+O. Zemraoui,Al Masry,"AMF, RCMF",24.0,550000,2026-06-30,25,1516,2,1.67,Morocco,Morocco,,0,0,oui
+A. Lamirat,Wydad Casablanca,"DMF, RDMF, LDMF",28.0,550000,2028-06-30,25,2073,0,1.58,Morocco,Morocco,les deux,181,69,non
+A. Boucheta,Wydad Casablanca,LB,32.0,550000,2026-06-30,22,2131,0,0.51,Morocco,Morocco,gauche,173,68,non
+I. Benktib,CODM Meknès,"LCMF, RDMF, LAMF",27.0,550000,2026-06-30,18,1535,0,0.61,Spain,"Spain, Morocco",droite,178,73,non
+A. Maurer,RWD Molenbeek,"LW, LAMF",21.0,500000,2027-06-30,29,2188,6,7.02,France,"France, Morocco",droite,173,70,non
+K. Ruiz-Atil,Liège,"AMF, CF, LCMF",23.0,500000,2027-06-30,22,1440,1,1.89,France,"France, Morocco",droite,178,66,non
+Z. Fdaouch,Nancy,"LW, LWF, AMF",29.0,500000,2027-06-30,31,2445,5,5.66,France,"France, Morocco",gauche,172,68,non
+A. Baadi,Raja Casablanca,"RB, RWB",30.0,500000,2026-06-30,10,411,0,0.07,Morocco,Morocco,,173,0,non
+A. Jabbari,Cincinnati,CF,26.0,500000,2028-12-31,23,702,3,2.78,Morocco,Morocco,gauche,198,78,non
+A. Boutouil,Al Hazem,"LCB, CB",28.0,500000,2027-06-30,16,1211,0,0.14,Morocco,Morocco,gauche,188,78,non
+H. Afsal,Maghreb Fès,"LCMF, LDMF, AMF",29.0,500000,,22,990,2,1.36,Morocco,Morocco,les deux,184,0,non
+S. Allouch,Maghreb Fès,"LWF, LAMF, LW",24.0,500000,2028-06-30,20,1561,3,2.42,Netherlands,"Netherlands, Morocco",droite,174,65,non
+A. Najah,Al Orubah,"LCMF, LDMF",28.0,500000,2026-06-30,32,3227,0,0.64,Netherlands,"Netherlands, Morocco",droite,176,67,non
+A. Mahir,FUS Rabat,"RCMF, LDMF, RDMF",29.0,500000,,21,2015,1,0.75,Morocco,Morocco,droite,176,0,non
+O. Soukhane,FUS Rabat,LB,27.0,500000,,20,1861,0,0.48,Morocco,Morocco,gauche,179,0,non
+H. Hannouri,Wydad Casablanca,CF,28.0,500000,2028-06-30,22,1686,6,5.91,Morocco,Morocco,droite,188,0,non
+J. Tachtach,Hassania Agadir,"LDMF, LCMF, RDMF",31.0,500000,2026-06-30,17,1157,0,0.28,Morocco,Morocco,,0,0,non
+M. Ounajem,Hassania Agadir,"RAMF, RW, LB",34.0,500000,2027-06-30,23,1478,3,2.18,Morocco,Morocco,droite,173,66,oui
+K. Ouarkhane,FAR Rabat,"AMF, RDMF, CF",26.0,500000,2027-06-30,35,2623,4,4.6,Morocco,Morocco,droite,179,66,non
+A. Ouahim,Khalidiya ,"LCMF, CF, AMF",28.0,500000,2026-06-30,12,959,2,2.47,Germany,"Germany, Morocco",droite,175,66,non
+B. El Ouadghiri,Ittihad Tanger,"RCB, LCB",24.0,500000,2027-06-30,17,1515,2,1.79,Morocco,Morocco,,0,0,non
+B. Gaddarine,Ittihad Tanger,"LCB, LB",28.0,500000,2026-06-30,19,1898,0,0.45,Morocco,Morocco,gauche,178,72,non
+Y. Bahassa,Ypsonas,"LAMF, LW, AMF",34.0,450000,,29,1968,3,1.96,France,"France, Morocco",droite,187,79,non
+A. Mourid,Baltika,"LCMF, RCMF, DMF",26.0,450000,2029-06-05,18,865,0,1.0,Morocco,Morocco,droite,180,77,non
+W. Rhailouf,UTS Rabat,"RCMF, RDMF, LDMF",27.0,450000,2028-06-30,17,1181,0,1.18,Morocco,Morocco,,0,0,non
+Y. Limouri,Petrojet,RCB,27.0,450000,2027-06-30,9,773,0,0.13,Morocco,Morocco,,0,0,non
+A. Serrhat,FUS Rabat,"LCMF, RDMF, LDMF",29.0,450000,,21,2110,1,1.68,Morocco,Morocco,,178,0,non
+A. Dairani,Khalidiya ,"RCB, LCB",30.0,450000,,17,1627,0,0.27,Morocco,Morocco,les deux,191,0,non
+S. El Amrani,Hassania Agadir,RCB,29.0,450000,,13,1197,0,0.99,Morocco,Morocco,gauche,181,0,non
+M. Saoud,Ittihad Tanger,"CB, RCB, LCB",30.0,450000,2027-06-30,22,2201,2,2.33,Morocco,Morocco,,0,0,non
+M. El Khaloui,Al Dhafra,"LW, LAMF, RW",28.0,400000,2028-06-30,28,2643,5,2.77,Morocco,Morocco,droite,180,67,non
+S. Ben Seghir,Neuchâtel Xamax,"LW, LAMF, AMF",23.0,400000,,33,2150,2,3.31,France,"France, Morocco",droite,177,57,non
+S. Bourard,Flamurtari Vlorë,"CF, LW, LCMF",30.0,400000,2026-06-30,15,758,2,1.4,Belgium,"Belgium, Morocco",droite,180,69,non
+C. El Bahri,,CF,33.0,400000,,11,710,0,0.91,Morocco,Morocco,droite,0,0,non
+I. Achik,Salernitana,"CF, LCMF, RWB",25.0,400000,2027-06-30,41,2274,4,4.45,Morocco,Morocco,droite,170,0,non
+F. Limouri,Eindhoven,RCB,23.0,400000,2026-06-30,23,1922,2,1.86,Morocco,"Morocco, Netherlands",droite,0,0,non
+F. El Khoumisti,Orléans,CF,33.0,400000,2026-06-30,33,3039,20,18.93,France,"France, Morocco",droite,180,75,non
+J. Rouhi,Carrarese,"LB, LWB, LCB",22.0,400000,2028-06-30,22,1236,1,0.91,Sweden,"Sweden, Morocco",gauche,183,68,oui
+A. Oudrhiri,Maghreb Fès,"RDMF, LCMF",33.0,400000,2027-06-30,18,576,0,0.01,France,"France, Morocco",droite,184,73,non
+Z. Bahrou,Khemis Zemamra,CF,29.0,400000,,7,510,1,1.47,Morocco,Morocco,droite,183,0,non
+Noah Fatar,Boulogne,"CF, LW, RW",24.0,400000,2027-06-30,30,1811,3,3.45,France,"France, Morocco",gauche,170,64,non
+M. Chemlal,Olympic Safi,"AMF, LCMF, RW",31.0,400000,2027-06-30,20,663,0,0.68,France,"France, Morocco",droite,170,64,non
+A. Hadraf,FAR Rabat,"AMF, RAMF, CF",28.0,400000,2028-06-30,29,2242,2,3.57,Morocco,Morocco,,0,0,non
+Z. Kiani,Ittihad Tanger,"RB, RWB",29.0,400000,2026-06-30,23,2201,1,0.47,Morocco,Morocco,droite,170,64,non
+E. Ennaama,Ittihad Tanger,"LCMF, DMF, RCMF",28.0,400000,2028-06-30,17,1062,0,0.48,Morocco,Morocco,droite,190,77,non
+H. Elowasti,Wydad Casablanca,"CF, LB, LWF",31.0,400000,2027-06-30,15,767,0,0.65,Morocco,Morocco,droite,0,0,non
+S. Lahssaini,La Louvière,"RCMF, DMF, LCMF",27.0,400000,2027-06-30,33,3141,1,0.42,Belgium,"Belgium, Morocco",droite,177,72,non
+M. Sahd,CODM Meknès,CF,32.0,400000,2026-06-30,15,889,3,2.91,Morocco,Morocco,droite,182,0,non
+M. Fouzair,UTS Rabat,"RW, RAMF",34.0,375000,2027-06-30,10,658,1,1.44,Morocco,Morocco,droite,168,69,non
+H. Buihamghet,Al Ahli,"DMF, RDMF, RCB",28.0,375000,2027-06-30,18,1809,0,0.13,Morocco,Morocco,droite,0,0,non
+Y. Anouar,CODM Meknès,"LW, LAMF, LWF",35.0,375000,2026-06-30,15,932,0,0.73,Morocco,Morocco,droite,165,0,non
+S. Ahannach,Yacoub El Mansour,"RCMF, LAMF, AMF",30.0,375000,,22,1725,2,1.51,Netherlands,"Netherlands, Morocco",droite,179,72,non
+A. Ait Ourehbi,Youssoufia Berrechid,"AMF, LCMF, CF",30.0,350000,,15,1140,2,2.65,Morocco,Morocco,,178,75,non
+Z. Hadraf,Khemis Zemamra,"LAMF, LWF, CF",34.0,350000,,17,697,1,1.42,Morocco,Morocco,droite,175,0,non
+M. Bemammer,Chennaiyin FC,"LDMF, LCMF, RCMF",36.0,350000,,11,904,0,0.21,Morocco,Morocco,droite,184,80,non
+R. Kharchouch,Omonia 29th May,CF,30.0,350000,,21,935,4,6.3,Netherlands,"Netherlands, Morocco",droite,192,86,non
+Domi Berlanga,Atlètic Club d'Escaldes,"RW, RAMF, CF",31.0,350000,2026-06-30,26,1970,12,5.3,Morocco,"Morocco, Spain",,180,0,non
+M. Rabja,Al Dhafra,"LCB, CB",32.0,350000,,25,2217,0,1.11,Morocco,Morocco,gauche,186,0,non
+Jasin Assehnoun,Omonia Aradippou,"LAMF, LW, RAMF",27.0,350000,,31,1298,7,3.17,Finland,"Finland, Morocco",les deux,175,68,non
+M. Louzif,Villefranche,"RCMF, LCMF",25.0,350000,2027-06-30,23,1465,2,1.3,France,"France, Morocco",droite,184,70,non
+A. Absalem,Helmond Sport,"LB, LW",28.0,350000,2026-06-30,28,1829,0,2.96,Netherlands,"Netherlands, Morocco",gauche,175,65,non
+O. Mhamdi,Verl,RB,23.0,350000,2026-06-30,36,3398,10,4.01,Germany,"Germany, Morocco",droite,186,82,non
+A. Wahib,Valenciennes,LB,26.0,350000,,20,1272,0,0.19,Morocco,Morocco,gauche,177,70,non
+Y. Arbidi,Hassania Agadir,"LAMF, LW, RWB",29.0,350000,2027-06-30,10,622,0,0.67,Morocco,Morocco,gauche,171,0,non
+Y. Bammou,UTS Rabat,CF,34.0,350000,2027-06-30,15,1098,2,2.56,France,"France, Morocco",droite,188,78,non
+M. Kamal,Khemis Zemamra,"LB, RAMF, CF",30.0,350000,,15,820,0,0.19,Morocco,Morocco,,0,0,non
+M. Maftah,RSB Berkane,GK,32.0,350000,2027-06-30,8,800,0,0.0,Morocco,Morocco,,190,0,non
+S. El Morsli,Olympic Safi,"LB, LCMF",28.0,350000,2026-06-30,27,2330,0,1.77,Morocco,Morocco,gauche,170,69,non
+O. Mahrous,Kawkab Marrakech,"DMF, RDMF, RCMF",31.0,350000,2027-06-30,13,946,0,0.47,Morocco,Morocco,,175,69,non
+Ayoub Abou,Septemvri Sofia,"LCMF, DMF",27.0,350000,2027-06-30,18,1058,0,0.12,Morocco,"Morocco, Spain",droite,176,67,non
+Z. Fati,Yacoub El Mansour,"AMF, LCMF",33.0,350000,2027-06-30,23,1753,6,3.95,Morocco,Morocco,,175,0,non
+G. Yahyai,Stevenage,CF,25.0,325000,2028-06-30,18,783,4,4.82,Spain,"Spain, Morocco",droite,187,77,oui
+A. Ajaraie,Persija,"LW, CF, LAMF",33.0,325000,2028-05-31,17,1026,5,3.86,Morocco,Morocco,droite,177,73,oui
+N. Bannis,Vitesse,CF,24.0,325000,2027-06-30,32,1594,9,6.38,Netherlands,"Netherlands, Morocco",droite,184,74,non
+D. Saddiki,VVV Venlo,"RDMF, LCMF, DMF",29.0,325000,2026-06-30,24,1210,0,1.87,Netherlands,"Netherlands, Morocco",droite,179,70,non
+A. El Bouchataoui,Pro Vercelli,"DMF, RDMF",26.0,325000,,27,2243,1,0.79,Netherlands,"Netherlands, Morocco",droite,179,74,non
+H. Ait Allal,Maghreb Fès,RB,26.0,325000,2027-06-30,14,1275,1,0.05,Morocco,Morocco,droite,184,0,non
+M. Ferni,Khemis Zemamra,GK,26.0,325000,2026-06-30,5,511,0,0.0,Morocco,Morocco,droite,186,79,non
+A. El Ouaad,Ittihad Tanger,GK,30.0,325000,,21,2110,0,0.0,Morocco,Morocco,droite,188,81,non
+I. El Haddad,,"RAMF, RW, LAMF",34.0,300000,,8,606,1,1.36,Morocco,Morocco,gauche,178,70,non
+N. Boujellab,Havelse,"LCMF, RCMF, AMF",26.0,300000,2026-06-30,32,2847,7,6.94,Germany,"Germany, Morocco",les deux,181,72,non
+R. El Azrak,Shaanxi Union,"LCMF, AMF",26.0,300000,2026-12-31,27,2441,5,4.82,Netherlands,"Netherlands, Morocco",droite,170,64,non
+Y. El-Arabi,Nantes,CF,39.0,300000,2026-06-30,27,1201,4,4.9,France,"France, Morocco",droite,183,84,non
+T. Bouchlarhem,Étoile Carouge,"LW, LWF, LAMF",25.0,300000,2026-06-30,32,1569,3,4.07,France,"France, Morocco",droite,180,72,non
+K. Rossi,Shamakhi FK,CF,32.0,300000,2026-06-30,34,2893,11,12.0,Switzerland,"Switzerland, Morocco",les deux,189,78,non
+Z. Lahlali,Al Jubail,"RCMF, LDMF, LCMF",35.0,300000,,30,2467,1,1.92,Morocco,Morocco,droite,177,0,non
+H. El Kaouakibi,Südtirol,RCB,28.0,300000,2028-06-30,34,2797,1,1.5,Italy,"Italy, Morocco",droite,185,79,non
+A. Aourir,Rot-Weiß Oberhausen,"CF, RWF, RCMF",21.0,300000,2026-06-30,19,726,3,1.8,Germany,"Germany, Morocco",les deux,172,62,non
+Y. Ezzejjari,East Bengal,CF,33.0,300000,,23,1951,18,14.94,Spain,"Spain, Morocco",droite,185,0,non
+Y. Ben Balla,Schalke 04 II,"LDMF, DMF, LCMF",30.0,300000,2028-06-30,33,3181,14,11.17,France,"France, Morocco",droite,180,73,non
+M. Sellouki,Laval,"AMF, RW, RWF",26.0,300000,2027-06-30,33,2285,6,7.14,France,"France, Morocco",droite,177,67,non
+Y. Zghoudi,Kawkab Marrakech,"LAMF, CF, RW",33.0,300000,2027-06-30,17,932,1,2.27,Morocco,Morocco,,182,0,non
+A. Madkour,Khemis Zemamra,RB,25.0,300000,2026-06-30,15,1287,0,0.33,Morocco,Morocco,droite,0,0,non
+B. El Bahraoui,UTS Rabat,"CF, RW, RAMF",33.0,300000,2027-06-30,15,628,0,1.0,Morocco,Morocco,,177,0,non
+D. Abzi,FC Supra,LB,27.0,300000,2026-12-31,8,672,1,1.58,Morocco,"Morocco, Canada",gauche,185,75,non
+Moha Moukhliss,Vizela,"LCMF, RDMF, RCMF",26.0,300000,2027-06-30,32,2872,2,0.68,Spain,"Spain, Morocco",droite,169,66,non
+Faysal Chouaib,Inter Club d'Escaldes,"CF, RWF, RW",26.0,300000,2026-06-30,24,2021,7,5.51,Spain,"Spain, Morocco",gauche,187,0,non
+I. Alhaft,Bangkok United,"RW, RAMF, RCMF",29.0,300000,2026-06-30,37,2343,7,6.99,Netherlands,"Netherlands, Morocco",gauche,172,68,non
+M. Bouchouari,Wydad Casablanca,"RB, RWB",25.0,300000,2028-06-30,16,991,0,0.31,Belgium,"Belgium, Morocco",les deux,170,61,non
+N. Amrabat,Wydad Casablanca,"RAMF, RWF, RW",39.0,300000,,29,1922,4,3.2,Netherlands,"Netherlands, Morocco",droite,179,87,non
+W. Sabbar,Wydad Casablanca,"LDMF, DMF",30.0,300000,2027-06-30,16,1093,3,0.67,Morocco,Morocco,droite,177,64,non
+A. Lamrabat,Ittihad Tanger,"LWB, LB",32.0,300000,2026-06-30,18,1488,0,0.06,Morocco,Morocco,gauche,173,0,non
+H. Boussefiane,Yacoub El Mansour,"RW, RAMF",28.0,300000,2026-06-30,23,1030,0,0.34,Morocco,Morocco,droite,177,65,non
+B. Aouk,,"RW, RWF, RAMF",29.0,275000,,10,622,1,0.38,Morocco,Morocco,droite,166,0,non
+A. Forsy,UTS Rabat,"RCMF, RW, AMF",27.0,275000,2028-06-30,9,436,0,0.03,Morocco,Morocco,les deux,170,0,non
+A. Ahannach,Muang Thong United,"AMF, CF, RCMF",28.0,275000,2026-06-30,26,1443,4,2.84,Netherlands,"Netherlands, Morocco",droite,179,70,non
+A. Nouader,CODM Meknès,RCB,28.0,275000,,12,732,0,0.09,France,"France, Morocco",,182,0,non
+W. Jarmouni,Hassania Agadir,"CF, RW, RWF",25.0,250000,2028-06-30,16,1222,8,7.9,France,"France, Morocco",gauche,189,82,non
+Hamza Ryahi,Atlètic Club d'Escaldes,"LCMF, LDMF, AMF",32.0,250000,2026-06-30,19,1192,0,0.56,Spain,"Spain, Morocco",droite,175,67,non
+S. Agougil,Paradiso,"LCMF, RCMF",24.0,250000,2026-06-30,8,567,1,0.22,Netherlands,"Netherlands, Morocco",droite,182,73,non
+M. Rabii,Al Jazira,RB,24.0,250000,2027-06-30,30,2574,3,1.08,Morocco,Morocco,,0,0,non
+A. Regattin,Sarıyer,"LCMF, LAMF",34.0,250000,2026-06-30,21,1534,3,4.05,France,"France, Morocco",droite,168,65,non
+M. Mallahi,Pro Vercelli,"RWF, RAMF, LAMF",26.0,250000,2027-06-30,26,994,2,1.83,Netherlands,"Netherlands, Morocco",droite,181,74,non
+Y. Boudadi,Union Omaha,"RB, RCB",30.0,250000,2026-11-30,31,2742,0,0.53,Morocco,"Morocco, Belgium",droite,183,77,non
+Y. Bouchama,Preußen Münster,"RCMF, LCMF",29.0,250000,2026-06-30,28,1943,2,4.63,Germany,"Germany, Morocco",les deux,182,72,non
+A. Farah,Khemis Zemamra,"AMF, RAMF, LAMF",25.0,250000,,15,679,0,0.95,Morocco,Morocco,,0,0,non
+D. Trichard,Bordeaux,LB,31.0,250000,,16,1574,0,1.22,France,"France, Morocco",gauche,178,70,non
+H. Semmoumy,Olympic Safi,RB,33.0,250000,2027-06-30,13,950,0,0.06,Morocco,Morocco,droite,174,0,non
+N. Ouammou,Hassania Agadir,"LB, DMF, RDMF",33.0,250000,2027-06-30,10,776,0,0.07,France,"France, Morocco",gauche,181,73,non
+K. Loukili,AF Elbasani,"LW, AMF, LAMF",29.0,250000,2026-06-30,33,2571,4,4.68,Netherlands,"Netherlands, Morocco",droite,175,73,non
+F. Abdoul Mutalib,Ittihad Tanger,"RCMF, DMF, LDMF",32.0,250000,2026-06-30,22,1607,1,1.3,Morocco,Morocco,,0,0,non
+A. Jbira,,LB,34.0,225000,,14,1199,0,0.21,Morocco,Morocco,gauche,175,0,non
+A. Jahouh,Odisha,"RCMF, RDMF, LDMF",37.0,225000,,9,847,1,0.86,Morocco,Morocco,droite,187,0,non
+Y. El Kachati,NEC,"CF, LWB",26.0,225000,2028-06-30,21,665,3,2.23,Netherlands,"Netherlands, Morocco",droite,185,76,non
+S. Ben Sallam,Panserraikos,RCMF,24.0,225000,2026-06-30,16,871,1,0.08,Netherlands,"Netherlands, Morocco",droite,185,69,non
+F. Hammouti,Svay Rieng,"RCB, CB, LCB",29.0,225000,2027-06-30,32,2986,2,1.48,Netherlands,"Netherlands, Morocco",droite,186,80,non
+Y. Kordani,Olympic Safi,LCB,35.0,225000,2026-06-30,17,1076,1,0.07,Morocco,Morocco,droite,0,0,non
+S. Khorsa,Maghreb Fès,LCB,32.0,225000,2027-06-30,11,872,1,0.12,Morocco,Morocco,,186,0,non
+S. Sellami,Kawkab Marrakech,"LAMF, CF, LW",29.0,225000,,16,572,0,0.54,Morocco,Morocco,droite,0,0,non
+A. Hmaidou,CODM Meknès,"RCMF, AMF, LCMF",26.0,225000,2027-06-30,17,1369,1,0.93,Morocco,Morocco,droite,176,70,non
+A. Aberkane,Vyškov,"RB, LB",24.0,200000,,16,1091,0,0.05,Netherlands,"Netherlands, Morocco",droite,181,79,non
+I. Benbouabdellah,Youssoufia Berrechid,"LCMF, DMF, LCB",27.0,200000,,12,933,0,0.23,Morocco,Morocco,droite,186,76,non
+I. Najm Eddine,Youssoufia Berrechid,RCB,32.0,200000,,10,904,0,0.0,Morocco,Morocco,,186,0,non
+K. Hachadi,Trofense,CF,28.0,200000,2026-06-30,20,851,0,0.68,Morocco,Morocco,gauche,190,85,non
+A. Bensabouh,Quick Boys,"RDMF, RCMF, LCMF",27.0,200000,2026-06-30,12,644,1,0.52,Netherlands,"Netherlands, Morocco",droite,179,75,non
+I. Chebake,Ypsonas,"RB, RWB",36.0,200000,,24,2093,1,1.05,Morocco,"Morocco, France",droite,175,71,non
+J. Mouaddib,Omonia Aradippou,"LAMF, LW, RAMF",25.0,200000,2027-05-31,31,2130,3,3.62,France,"France, Morocco",les deux,181,72,non
+Nabil Touaizi,Alverca,"RWB, RB",25.0,200000,2028-06-30,34,3149,1,3.04,Spain,"Spain, Morocco",droite,183,77,non
+M. El Jaouhari,Étoile Carouge,"DMF, LCMF",27.0,200000,,34,2442,0,0.28,France,"France, Morocco",gauche,181,0,non
+A. Sellouf,,"LAMF, RAMF, LW",24.0,200000,,16,442,0,1.51,Netherlands,"Netherlands, Morocco",gauche,177,72,non
+M. Laaribi,Reggina,"LDMF, DMF, RDMF",33.0,200000,2026-06-30,25,2200,1,0.66,Morocco,"Morocco, Italy",droite,173,72,non
+H. Al Ghaddioui,Fortuna Köln,CF,35.0,200000,2027-06-30,31,1991,12,11.38,Germany,"Germany, Morocco",droite,190,92,non
+O. Siddiki,Antequera,"LAMF, LW, LWF",28.0,200000,2026-06-30,30,2354,5,4.76,Morocco,"Morocco, Spain",droite,179,76,non
+M. Fakhr,Khemis Zemamra,GK,37.0,200000,2026-06-30,15,1487,0,0.0,Morocco,Morocco,,182,0,non
+A. Douiri,Al Najma,"LAMF, CF, AMF",26.0,200000,,13,1127,2,2.33,Netherlands,"Netherlands, Morocco",droite,180,72,non
+Z. Hadji,Al Najma,CF,29.0,200000,,20,1690,4,6.13,France,"France, Morocco",droite,183,68,non
+D. Fettouhi,Al Ahli,"RDMF, LDMF, LCMF",36.0,200000,2027-06-30,30,2653,3,2.95,Morocco,"Morocco, France",gauche,185,74,non
+Y. Didi,Ceuta,"DMF, RCMF, RDMF",27.0,200000,2026-06-30,36,2738,2,1.75,Spain,"Spain, Morocco",gauche,192,86,non
+A. Benchaib,Kauno Žalgiris,"CF, AMF",27.0,200000,2026-12-31,43,3772,19,18.25,Belgium,"Belgium, Morocco",droite,181,71,non
+W. Nassi,Wydad Casablanca,"LAMF, RWF, RAMF",25.0,200000,,27,1299,2,2.25,France,"France, Morocco",droite,182,64,non
+Antonio Otegui,Inter Club d'Escaldes,"RCMF, AMF",28.0,200000,2026-06-30,21,1818,5,3.69,Spain,"Spain, Morocco",droite,174,63,non
+Ander El Haddadi,Paganese,"CF, LWF, LW",28.0,200000,2026-06-30,33,1904,4,3.89,Spain,"Spain, Morocco",droite,179,73,non
+T. Safsafi,Chabab Mohammédia,"LCMF, LDMF, RCMF",33.0,175000,,11,485,1,0.16,Morocco,Morocco,droite,178,0,non
+N. Zannane,Youssoufia Berrechid,"LCMF, RCB",29.0,175000,,9,656,0,0.01,Morocco,Morocco,les deux,183,0,non
+M. Fall,,RCB,37.0,175000,,13,1277,3,1.02,Senegal,"Senegal, Morocco",les deux,192,0,non
+Y. Rami,,RCB,39.0,175000,,4,415,0,0.13,Morocco,Morocco,,185,0,non
+S. Lagzir,Heraclea,"CF, RAMF, RWF",31.0,175000,2026-06-30,21,1339,2,2.58,Morocco,Morocco,gauche,180,0,non
+A. Tine,Khemis Zemamra,RB,34.0,175000,,8,756,0,0.01,Morocco,Morocco,droite,175,68,non
+H. El Bahja,Ittihad Tanger,"CF, RAMF",32.0,175000,2026-06-30,18,1502,4,4.6,Morocco,Morocco,gauche,175,0,non
+K. El Bounagate,CODM Meknès,LCB,25.0,175000,2027-06-30,23,2110,1,1.34,Morocco,Morocco,gauche,185,0,non
+L. Dahdouh,JS Soualem,"RAMF, LAMF, RWF",25.0,150000,,12,562,1,1.74,Morocco,Morocco,droite,178,70,non
+J. Assouab,Kawkab Marrakech,RCB,31.0,150000,2027-06-30,8,794,0,0.24,Morocco,Morocco,droite,189,74,non
+H. Benkaid,Stade Briochin,"CF, AMF",35.0,150000,,8,467,3,2.59,France,"France, Morocco",gauche,178,71,non
+I. Takidine,Roda JC,"RAMF, LAMF, RWF",25.0,150000,2026-06-30,13,401,0,0.15,Belgium,"Belgium, Morocco",droite,171,61,non
+H. Rahimi,Al Ain,CF,24.0,150000,,34,1267,8,7.63,Morocco,Morocco,droite,187,0,non
+I. El Kadiri,De Graafschap,"LW, LWF, LAMF",24.0,150000,2027-06-30,28,2088,5,5.27,Netherlands,"Netherlands, Morocco",droite,170,58,non
+Karim El Kounni,Unión Malacitano,"LAMF, LW",28.0,150000,2026-06-30,22,1629,3,3.3,Spain,"Spain, Morocco",droite,0,0,non
+Mohamed Mizzian,UCAM Murcia,CF,26.0,150000,2026-06-30,24,1298,6,5.93,Spain,"Spain, Morocco",les deux,185,77,non
+C. Benhamza,Nîmes,"LCMF, RCMF",33.0,150000,,12,1125,0,0.93,Morocco,"Morocco, France",droite,176,84,non
+Y. El Arbaoui,Águilas,"LCMF, RCMF, DMF",26.0,150000,2026-06-30,22,1680,1,0.65,Spain,"Spain, Morocco",droite,176,68,non
+H. Hafidi,Cannes,"RCMF, RDMF, CF",33.0,150000,2026-06-30,9,589,0,1.22,Morocco,"Morocco, France",gauche,184,78,non
+Y. Daoussi,VPS,"RWB, RB, LWB",26.0,150000,2026-12-31,33,2118,3,4.73,Finland,"Finland, Morocco",droite,178,74,non
+S. Benyachou,FUS Rabat,"LAMF, LW, RAMF",26.0,150000,,21,1040,5,3.62,Morocco,Morocco,droite,168,0,non
+Abde Damar,Zamora,"LW, LAMF",26.0,150000,2027-06-30,36,2621,6,4.64,Morocco,Morocco,droite,172,70,non
+M. Chakir,Ascoli,"CF, AMF",25.0,150000,2027-06-30,41,1719,7,6.34,Italy,"Italy, Morocco",droite,180,69,non
+M. Al Harrar,Raja Casablanca,GK,25.0,150000,2027-06-30,28,2865,0,0.0,Morocco,Morocco,droite,189,85,non
+J. Erraji,Inter Club d'Escaldes,RCB,28.0,150000,2026-06-30,19,1543,1,1.12,Morocco,Morocco,droite,188,80,non
+M. Sanhaji,Real Jaén,"RB, RW, RAMF",27.0,150000,2026-06-30,30,2327,0,1.45,Spain,"Spain, Morocco",droite,179,67,non
+Z. Hamlili,Livorno,"DMF, LCMF, RCMF",35.0,125000,2026-06-30,35,2840,2,0.53,Italy,"Italy, Morocco",droite,170,66,non
+Z. Daqoune,Città di Acireale,"DMF, RCMF",25.0,125000,2026-06-30,23,1824,0,0.25,Morocco,Morocco,,185,0,non
+I. Harnafi,FSV Frankfurt,"CF, RCMF",24.0,125000,2027-06-30,29,2177,13,8.86,Germany,"Germany, Morocco",droite,172,0,non
+S. El-Faouzi,Schalke 04,"RCMF, RDMF",23.0,125000,2029-06-30,36,3581,2,2.68,Germany,"Germany, Morocco",les deux,0,0,non
+R. Aabid,RSB Berkane,"LDMF, RDMF, LCMF",34.0,125000,,29,1612,1,0.76,France,"France, Morocco",droite,178,71,non
+S. Hadji,Differdange 03,CF,36.0,125000,,9,867,5,4.81,France,"France, Morocco",droite,190,86,non
+Y. Bnou Marzouk,Erzeni Shijak,CF,28.0,100000,,10,550,1,1.89,France,"France, Morocco",droite,180,75,non
+A. El Hriti,UNA Strassen,"LB, LCB",36.0,100000,2027-06-30,23,1177,0,0.0,France,"France, Morocco",gauche,179,82,non
+Y. Aït Moujane,Rouen,"RWB, RB",25.0,100000,2026-06-30,14,912,0,0.6,France,"France, Morocco",droite,174,67,non
+O. Khailoti,Novara,LCB,24.0,100000,2027-06-30,28,2410,1,1.48,Italy,"Italy, Morocco",gauche,192,77,non
+E. Kratzer,Bonner SC,"RW, CF",26.0,100000,2026-06-30,17,613,3,1.93,Germany,"Germany, Morocco",droite,178,69,non
+Y. Belkhdim,Angers SCO,"RAMF, RCMF, RDMF",24.0,100000,2028-06-30,28,2351,2,2.58,France,"France, Morocco",droite,175,70,non
+Mohamed Kamal,Deportiva Minera,"LCMF, DMF, LDMF",34.0,100000,2026-06-30,26,1469,0,1.17,Spain,"Spain, Morocco",droite,178,74,non
+M. Ihattaren,Fortuna Sittard,"RAMF, AMF, RW",24.0,100000,2027-06-30,30,2187,6,6.59,Netherlands,"Netherlands, Morocco",gauche,183,75,non
+A. Serbouti,Pineto,"RB, RCB",26.0,100000,2026-06-30,26,1401,0,1.55,Morocco,"Morocco, Italy",droite,187,79,non
+B. Erradi,Potenza,LCMF,25.0,100000,2026-06-30,27,1601,4,1.36,Italy,"Italy, Morocco",droite,175,69,non
+R. Khaleel,Dagenham & Redbridge,"LCMF, RDMF, DMF",23.0,100000,2026-06-30,19,476,1,0.56,England,"England, Morocco",droite,177,64,non
+M. Errahaly,Unionistas de Salamanca,"LB, LAMF",26.0,100000,2027-06-30,24,1454,3,2.34,Morocco,Morocco,gauche,180,72,oui
+S. El Ftouhi,Mérida AD,"CF, AMF",25.0,100000,2028-06-30,31,2332,5,11.29,France,"France, Morocco",,182,74,non
+H. Mastour,Virtus Verona,"CF, AMF, LCMF",27.0,100000,2026-06-30,16,789,0,0.32,Italy,"Italy, Morocco",droite,175,63,non
+A. Kharmoud,Pistoiese,"RWB, RW",25.0,100000,2026-06-30,24,1661,2,1.76,Italy,"Italy, Morocco",droite,177,0,non
+C. Abbas,Cannes,"RAMF, RW, RWF",27.0,100000,2027-06-30,30,2893,9,10.02,France,"France, Morocco",gauche,174,69,non
+R. Halhal,Mechelen,"CB, RCB",23.0,100000,2027-06-30,33,3143,1,1.0,France,"France, Morocco",droite,191,79,non
+Bilal Kandoussi,Arenteiro,"LAMF, RAMF, RWF",26.0,100000,2026-06-30,25,1402,2,2.5,Spain,"Spain, Morocco",droite,173,60,non
+Y. Michte,Difaâ El Jadida,"RCMF, RDMF, LCMF",27.0,100000,,23,1752,0,0.35,Morocco,Morocco,droite,178,74,non
+F. Taarimte,Forbach,"AMF, CF, RW",30.0,75000,,15,794,1,1.24,France,"France, Morocco",,0,0,non
+E. El Bassil,FUS Rabat,"CB, RCB",37.0,75000,,8,775,1,0.15,Morocco,Morocco,droite,0,0,non
+H. Boutakhrit,Bayern Alzenau,"LCB, RCB, RDMF",33.0,75000,2027-06-30,22,1916,0,1.64,Morocco,"Morocco, Germany",droite,187,84,non
+Y. Zakir,Metaloglobus,"LW, LCMF, LAMF",29.0,75000,,34,2241,9,5.03,Netherlands,"Netherlands, Morocco",droite,175,68,non
+Mohcine Hassan,PSBS Biak Numfor,"CF, AMF",31.0,75000,,23,1749,4,8.79,Portugal,"Portugal, Morocco",droite,192,72,non
+R. Akmum,Den Bosch,LCB,25.0,75000,2027-06-30,26,2218,1,1.13,Netherlands,"Netherlands, Morocco",gauche,184,75,non
+S. Errahouli,Olympic Safi,"LW, LAMF, RAMF",23.0,75000,2026-06-30,36,2896,5,4.05,Morocco,Morocco,droite,0,0,non
+A. Ouhafsa,Bavois,"CF, LWF, LW",28.0,75000,2026-06-30,26,2153,12,15.13,France,"France, Morocco",droite,180,0,non
+H. Doughmi,Yacoub El Mansour,GK,26.0,75000,2027-06-30,10,958,0,0.0,Morocco,Morocco,droite,185,0,non
+A. Drif,,"LAMF, LW, CF",33.0,50000,,12,1082,0,0.68,France,"France, Morocco",,178,70,non
+B. Boukteb,RFC Seraing,"LCMF, RCMF",24.0,50000,2026-06-30,19,642,0,0.26,Belgium,"Belgium, Morocco",,183,76,non
+A. Ghazoini,CSM Satu Mare,"RB, RCB",25.0,50000,2026-06-30,21,1862,1,1.35,Italy,"Italy, Morocco",droite,184,78,non
+A. Lembezat,Dijon,"AMF, LCMF",27.0,50000,2026-06-30,20,1613,3,4.54,France,"France, Morocco",droite,177,64,non
+B. Ouacharaf,Talavera CF,RB,24.0,50000,2026-06-30,15,775,1,0.69,Spain,"Spain, Morocco",droite,180,72,non
+Y. Ejjaki,Real Normanna,"DMF, RDMF, RCMF",27.0,50000,2026-06-30,24,2161,3,2.6,Italy,"Italy, Morocco",droite,174,67,non
+M. Gueddar,Biel-Bienne,"LW, LAMF, LWF",27.0,50000,2026-06-30,29,2065,6,7.08,France,"France, Morocco",droite,176,75,non
+Hakim El Mokh,,"DMF, RDMF",29.0,50000,,8,633,0,0.08,Spain,"Spain, Morocco",les deux,186,76,non
+M. Rabbas,Mestre,"AMF, LCMF, LW",26.0,50000,2026-06-30,17,1300,3,2.2,Morocco,Morocco,droite,178,73,non
+M. Bouhamed,,"LCMF, RCMF, LAMF",26.0,25000,,9,609,0,0.33,Italy,"Italy, Morocco",,0,0,non
+Y. Derbali,Fortuna Köln,"LB, LWB",23.0,25000,2027-06-30,9,439,0,0.08,Germany,"Germany, Morocco",gauche,185,0,non
+O. Chajari,Altavilla,"DMF, RCMF, LCMF",26.0,25000,2026-06-30,28,2553,1,1.16,Italy,"Italy, Morocco",droite,183,0,non
+A. Sanat,Campodarsego,"RAMF, RCMF, AMF",24.0,25000,2027-06-30,25,1162,2,3.57,Italy,"Italy, Morocco",gauche,175,67,non
+M. Hajij,Wil,"LAMF, CF, LW",24.0,25000,2028-06-30,35,2372,4,4.89,France,"France, Morocco",droite,175,68,non
+A. Essoussi,Virtus Sangiustino,CF,40.0,10000,,22,1239,3,6.0,Morocco,Morocco,droite,182,73,non
+A. Mouloua,FUS Rabat,CF,23.0,10000,,22,1770,6,7.68,Morocco,Morocco,droite,0,0,non
+M. Naji,,RB,34.0,0,,4,404,0,0.0,Morocco,Morocco,,170,0,non
+Y. Lazaar,UT Pétange,RB,19.0,0,,5,408,0,0.0,Belgium,"Belgium, Morocco",,0,0,non
+A. Malki,,LB,29.0,0,,6,556,0,0.22,Morocco,Morocco,,0,0,non
+M. Khalek,Digenis Ypsonas,"RB, RWB",22.0,0,,12,831,0,0.51,Italy,"Italy, Morocco",droite,182,0,non
+A. Moutawi,Khemis Zemamra,"AMF, LAMF, LCMF",24.0,0,,6,411,0,0.9,Morocco,Morocco,,0,0,non
+A. Kasbaoui,Mouloudia Oujda,"LCMF, RDMF, RCMF",26.0,0,,15,1501,1,0.83,Morocco,Morocco,,0,0,non
+M. Bahadi,Mouloudia Oujda,RB,24.0,0,,9,667,0,0.16,Morocco,Morocco,,0,0,non
+A. Anass,Youssoufia Berrechid,"RB, RWB",27.0,0,,16,1321,4,1.9,Morocco,Morocco,,0,0,non
+A. Laziz,,"RB, LCB",20.0,0,,7,407,0,0.0,Morocco,"Morocco, Italy",unknown,0,0,non
+A. Ballouchy,,"AMF, RAMF, RWB",22.0,0,,11,481,0,0.29,Morocco,Morocco,,0,0,non
+F. El Haddadi,Busaiteen,"LCMF, DMF, LDMF",28.0,0,,7,679,1,0.35,Morocco,Morocco,droite,187,67,non
+H. El Houssini,Youssoufia Berrechid,"RCMF, AMF",32.0,0,,10,842,0,0.12,Morocco,Morocco,les deux,185,0,non
+M. Said Bouksyr,KACM Marrakech,"LCMF, AMF",27.0,0,,9,593,0,0.47,Morocco,Morocco,droite,177,0,non
+A. Hadidi,Racing de Casablanca,RB,30.0,0,,7,466,0,0.0,Morocco,Morocco,les deux,178,0,non
+A. Mejdoub,KAC Kénitra,LB,24.0,0,2027-06-30,7,563,0,0.0,Morocco,Morocco,gauche,171,0,non
+Amin Guerrero,Dalvík / Reynir,"CF, RAMF",24.0,0,,9,877,1,1.98,Spain,"Spain, Morocco",droite,173,73,non
+A. Dellahi,Queanbeyan City,"CF, LAMF",,0,,11,876,2,3.24,Morocco,Morocco,,0,0,non
+N. Zerhouni,,"RAMF, CF, RW",30.0,0,,10,851,1,2.24,Morocco,Morocco,droite,173,0,non
+A. Bentagana,JS Soualem,"LCMF, DMF",24.0,0,,7,430,0,0.09,Morocco,Morocco,,0,0,non
+W. Es Saqy,Chabab Mohammédia,"RDMF, LCMF, LDMF",,0,,7,566,0,0.16,Morocco,Morocco,unknown,0,0,non
+M. El Yousfi,KAC Kénitra,GK,35.0,0,2026-06-30,5,496,0,0.0,Morocco,Morocco,droite,182,0,non
+Y. Ben Saed,,"LCB, RCB",22.0,0,,6,531,0,0.14,Morocco,"Morocco, Spain",,0,0,non
+S. el-Mahboubi,,"LCMF, DMF, RW",20.0,0,,7,549,0,0.02,Morocco,Morocco,unknown,0,0,non
+M. Bakour,Excelsior Maassluis,"LAMF, LW, CF",26.0,0,2026-06-30,19,1086,2,3.51,Netherlands,"Netherlands, Morocco",les deux,175,0,non
+Ismail El Harchi,Izarra,CF,27.0,0,,13,654,1,1.35,Spain,"Spain, Morocco",droite,190,74,non
+S. Chlaghmo,Mallorca B,"RB, RCB",20.0,0,,5,460,0,0.03,Morocco,Morocco,unknown,0,0,non
+I. H'Maidat,Bremer SV,"AMF, DMF",30.0,0,2026-06-30,22,1747,3,4.08,Netherlands,"Netherlands, Morocco",gauche,185,75,non
+T. Essakkati,Helmond Sport,"LW, LAMF, LWF",20.0,0,2027-06-30,27,1542,2,3.07,Netherlands,"Netherlands, Morocco",,0,0,non
+O. Agougil,Utrecht II,"LCMF, LDMF",20.0,0,2027-06-30,41,2836,0,2.86,Netherlands,"Netherlands, Morocco",gauche,0,0,non
+E. Dao,Anderlecht,"LAMF, LW, LWF",19.0,0,2029-06-30,17,1013,2,2.05,France,"France, Morocco",droite,183,75,non
+H. Koutoune,Annecy,"RWB, LWB",19.0,0,2028-06-30,10,486,0,0.03,Morocco,Morocco,droite,177,0,oui
+R. Frikeche,Wasquehal,RCB,34.0,0,,5,416,0,0.5,France,"France, Morocco",droite,184,75,non
+O. Ashley,Salford City,"RCMF, DMF, LCMF",26.0,0,2026-06-30,23,1288,2,0.69,England,"England, Morocco",droite,180,82,non
+I. Ziani,RWD Molenbeek,"AMF, LAMF, RDMF",22.0,0,2026-06-30,16,1245,2,2.78,Belgium,"Belgium, Morocco",droite,173,65,non
+N. El Basri,MVV,"AMF, CF",22.0,0,2026-06-30,34,1835,4,4.24,Morocco,"Morocco, Belgium",les deux,187,79,non
+A. Alaoui,Lecco,"CF, AMF, RW",19.0,0,2027-06-30,19,517,1,1.3,Germany,"Germany, Morocco",droite,187,77,non
+S. Lazar,Genk II,"RAMF, LAMF, LWF",19.0,0,,11,459,0,0.96,Belgium,"Belgium, Morocco",,181,0,non
+R. Buifrahi,Club Brugge II,"LAMF, RAMF",21.0,0,2027-06-30,25,1071,1,1.43,Belgium,"Belgium, Morocco",gauche,173,0,non
+W. Lgharbi,Saumur,"LCMF, RCMF, AMF",23.0,0,,9,580,3,0.97,France,"France, Morocco",droite,0,0,non
+A. Jamal Eddine,Melilla II,GK,22.0,0,,5,494,0,0.0,Morocco,Morocco,,0,0,non
+R. Sammouni,Valenzana,"LWB, LB, RAMF",19.0,0,2026-06-30,10,642,1,0.79,Morocco,Morocco,,175,0,non
+M. Abuzraa,Kahraba Ismailia,"CB, RCB, LCB",29.0,0,,10,904,0,0.11,Morocco,Morocco,droite,185,0,non
+M. Jebbar,Cairese,"CF, LAMF, LW",21.0,0,2026-06-30,22,1591,6,3.82,Morocco,Morocco,unknown,0,0,non
+D. Jermoumi,Cambuur,RB,21.0,0,2026-06-30,18,633,0,0.13,Netherlands,"Netherlands, Morocco",droite,174,0,non
+A. Mittache,Ajman,"RCMF, CF, LDMF",24.0,0,,22,863,2,1.12,Morocco,Morocco,,0,0,non
+M. Essakkati,Zürich II,"AMF, RAMF, RWF",21.0,0,,13,850,3,2.1,Netherlands,"Netherlands, Morocco",gauche,0,0,non
+R. Ergouai,Real Zaragoza B,RCB,22.0,0,2026-06-30,15,1086,0,0.45,France,"France, Morocco",droite,186,79,non
+A. Salama,NAC Breda,"CF, LAMF, RAMF",25.0,0,2027-06-30,23,1220,2,2.3,France,"France, Morocco",droite,192,78,oui
+A. Brrou,Lokeren-Temse,"RAMF, RW",27.0,0,2027-06-30,31,2691,5,5.14,Belgium,"Belgium, Morocco",droite,170,0,non
+Z. Atteri,Eupen,CF,24.0,0,2028-06-30,29,1486,5,5.34,Belgium,"Belgium, Morocco",gauche,190,78,non
+A. André,Liège,GK,28.0,0,2027-06-30,10,951,0,0.0,France,"France, Morocco",droite,193,80,non
+W. BenBella,Montlouis,"DMF, RCMF, LDMF",25.0,0,,10,922,1,0.19,France,"France, Morocco",droite,174,0,non
+R. Sabry,Chateaubriant Voltigeurs,"LB, RB",25.0,0,,6,423,0,0.18,France,"France, Morocco",droite,170,56,non
+W. Amadi,Montlouis,RB,26.0,0,,9,803,1,0.39,France,"France, Morocco",,0,0,non
+H. Sbaï,Villefranche,"RB, RWB",26.0,0,2026-06-30,23,1730,1,1.6,France,"France, Morocco",droite,175,66,non
+I. Louza,Watford,"RCMF, LCMF, RDMF",27.0,0,2028-06-30,44,4016,7,7.78,France,"France, Morocco",gauche,178,65,non
+Hamza Es Sakaf,Pozoblanco,CF,24.0,0,,9,430,1,0.79,Morocco,"Morocco, Spain",,0,0,non
+M. Essahel,UTS Rabat,"LCMF, RCMF",23.0,0,,11,746,2,1.51,Morocco,Morocco,,0,0,non
+C. El Allachi,De Graafschap,"LAMF, LW, LWF",21.0,0,2028-06-30,29,1617,4,5.6,Netherlands,"Netherlands, Morocco",droite,0,0,non
+O. Faridi,Saluzzo,"LCMF, RCMF, LDMF",32.0,0,,32,2564,6,3.62,Morocco,Morocco,unknown,0,0,non
+M. Hamdi,Angoulême,"RCB, CB, LCB",33.0,0,,11,1058,0,1.37,France,"France, Morocco",droite,184,77,non
+M. Oukhattou,Sparta Rotterdam II,"AMF, LCMF",21.0,0,2027-06-30,20,1497,2,3.95,Morocco,"Morocco, Netherlands",droite,0,0,non
+Hamza Bellari,Eldense,"LW, RW, CF",23.0,0,2026-06-30,34,1490,3,3.91,Spain,"Spain, Morocco",gauche,0,0,non
+H. Asrir,Al Buqa'a,"RCB, RB",33.0,0,,5,484,0,0.0,Morocco,Morocco,,186,0,non
+S. El Hadani,Ajman,"CF, LW, RW",21.0,0,,20,922,1,2.46,Morocco,Morocco,,0,0,non
+N. Zoukit,Aarau,"RCMF, DMF",25.0,0,2027-06-30,36,3317,0,1.55,Switzerland,"Switzerland, Morocco",,188,0,non
+A. El Battioui,Atlético Astorga,"CF, LAMF, LW",25.0,0,,12,898,4,2.05,Spain,"Spain, Morocco",droite,182,76,non
+R. Kaddouri,FC 93 Bobigny BG,"CB, DMF, LCMF",30.0,0,2026-06-30,6,560,0,0.01,France,"France, Morocco",droite,186,73,non
+H. Lakhyar,Atlético Malagueño,"LW, RW, LAMF",19.0,0,,21,1070,1,0.89,Morocco,Morocco,unknown,177,0,non
+W. Chahid,Navalcarnero,"RB, RW",24.0,0,,12,500,0,0.19,Morocco,Morocco,droite,0,0,non
+M. Loune,Alemannia Aachen,"AMF, RWF",22.0,0,2027-06-30,26,1878,5,2.02,Germany,"Germany, Morocco",droite,172,62,non
+Amin Bouzaig,Ourense CF,CF,29.0,0,2026-06-30,31,2083,3,6.31,Spain,"Spain, Morocco",droite,181,73,non
+P. Gadio,Akhmat Grozny,"RDMF, RCMF, LDMF",24.0,0,2028-06-30,13,483,0,0.1,Morocco,Morocco,,0,0,non
+E. Breir,FSV Frankfurt,"RB, LCMF, RCMF",21.0,0,2028-06-30,22,667,0,0.01,Germany,"Germany, Morocco",droite,174,67,non
+I. Sebaoui,Sint-Truiden,"LAMF, LWF, LW",24.0,0,2028-06-30,42,3650,5,7.32,Belgium,"Belgium, Morocco",droite,180,70,non
+A. Baallal,Saint-Étienne U19,"RCMF, DMF",19.0,0,,7,524,2,0.98,Morocco,Morocco,unknown,0,0,non
+M. El Boukammiri,Lommel SK,"RW, RAMF",22.0,0,2029-06-30,35,2156,6,6.5,Belgium,"Belgium, Morocco",gauche,180,70,non
+A. Soussi,Al Dhafra,CF,23.0,0,2026-06-30,17,844,2,2.23,Morocco,"Morocco, Belgium",droite,0,0,non
+A. Boudri,Los Angeles FC,"LCMF, AMF",21.0,0,2029-06-30,23,1691,5,4.48,Sweden,"Sweden, Morocco",droite,176,60,non
+A. Baallal,Clermont,"LCMF, LDMF",21.0,0,2027-06-30,27,2313,1,1.66,Morocco,Morocco,,0,0,non
+Z. Ariss,Bastia,"LB, LWB",21.0,0,2028-06-30,30,2769,0,1.63,France,"France, Morocco",gauche,178,72,non
+A. Boutrah,Bastia,"LAMF, LW, CF",25.0,0,2028-06-30,29,2168,2,3.98,France,"France, Morocco",droite,171,60,non
+B. Ksiouar,Bonner SC,"RB, RCB, LCB",23.0,0,2027-06-30,15,1009,1,0.52,Morocco,"Morocco, Germany",droite,0,0,non
+Khalil Fayad,Montpellier,"AMF, LDMF, RDMF",21.0,0,2027-06-30,21,819,1,0.83,France,"France, Morocco",droite,172,61,non
+N. Aberdin,Al Jazira,"RCB, LCB",23.0,0,2028-06-30,19,1169,0,0.07,France,"France, Morocco",droite,192,83,oui
+Z. Loukili,Landskrona,"RCMF, LCMF, AMF",20.0,0,2028-12-31,21,1119,1,2.1,Sweden,"Sweden, Morocco",droite,175,65,oui
+Z. Sdaigui,Antella 99,"AMF, LW, RWF",25.0,0,,6,432,0,0.34,Italy,"Italy, Morocco",droite,186,75,non
+Y. El Ouatki,VPS,"LCMF, AMF",27.0,0,2026-12-31,20,1571,1,2.37,France,"France, Morocco",gauche,184,78,non
+Y. Ben Khaleq,Al Ain,"LCB, RCB",24.0,0,,33,2984,2,1.24,Morocco,Morocco,droite,0,0,non
+I. Lagrimi,Al Jazira,"LB, RB",22.0,0,2029-06-30,15,710,0,0.0,Morocco,Morocco,,0,0,non
+Naoufel El Hannach,Montpellier,"RB, LB",19.0,0,2027-06-30,21,1231,0,0.47,Morocco,"Morocco, France",droite,183,0,oui
+Y. Benrahou,Manisa F.K.,"AMF, CF, RAMF",27.0,0,2027-06-30,32,2354,8,7.77,France,"France, Morocco",gauche,172,68,non
+K. Achahbar,Stade Briochin,"LW, RW, CF",30.0,0,,25,1629,1,2.86,France,"France, Morocco",gauche,183,70,non
+R. El Meliani,Roda JC,"LB, RB",21.0,0,2026-06-30,14,490,0,0.19,Netherlands,"Netherlands, Morocco",droite,0,0,non
+A. El Azzouzi,Fortuna Düsseldorf,"RCMF, RDMF",24.0,0,2029-06-30,32,3054,2,4.21,Netherlands,"Netherlands, Morocco",droite,187,76,non
+C. Taoualy,Xerez,"LCMF, AMF, RDMF",27.0,0,2026-06-30,31,2783,3,4.68,Morocco,"Morocco, Spain",droite,180,0,non
+B. Simo,Marítimo,"RAMF, RW, RWF",26.0,0,,31,2560,8,10.39,Morocco,Morocco,,0,0,non
+Y. Chahid,Châteauroux,"LCMF, LDMF, DMF",21.0,0,,11,873,2,1.26,France,"France, Morocco",droite,165,60,non
+F. Al Mazyani,RKC Waalwijk,"RB, RWB",21.0,0,2027-06-30,9,618,0,0.93,Belgium,"Belgium, Morocco",droite,180,68,non
+E. Barrahma,Al Kuwait,"RCB, DMF",34.0,0,,6,639,2,1.16,Morocco,Morocco,droite,177,70,non
+Y. Attiyat Allah,Sochi,"LB, LWB",31.0,0,2027-06-30,10,858,0,0.58,Morocco,Morocco,gauche,176,70,non
+Y. El Khafi,Olympique Dcheïra,"LB, LCB",32.0,0,,14,1187,0,0.28,Morocco,Morocco,,0,0,non
+M. Kharjan,Yacoub El Mansour,"RCMF, RDMF",28.0,0,,6,610,0,0.78,Morocco,Morocco,unknown,0,0,non
+M. Hamony,Girona B,"LAMF, LW",19.0,0,,10,661,1,0.63,Morocco,Morocco,unknown,0,0,non
+R. Idrissi,Cagliari,"LB, LWB, LW",20.0,0,2030-06-30,26,1111,2,0.34,Italy,"Italy, Morocco",gauche,0,0,non
+N. Ait Mouhou,VVV Venlo,"LAMF, LW",21.0,0,2027-06-30,37,2501,4,7.51,Morocco,Morocco,unknown,0,0,non
+S. Ouaissa,NEC,RWB,21.0,0,2028-06-30,37,3326,7,6.48,Netherlands,"Netherlands, Morocco",gauche,0,0,non
+I. Boumassaoudi,Den Bosch,"LAMF, LCMF, LWF",21.0,0,2028-06-30,32,1805,10,9.03,Netherlands,"Netherlands, Morocco",droite,0,0,non
+I. Bakhty,Sturm Graz II,LCB,19.0,0,2028-06-30,11,781,0,1.64,Morocco,Morocco,unknown,0,0,non
+O. Maamma,Watford,"LW, LAMF, RW",20.0,0,2029-06-30,25,1734,4,4.51,France,"France, Morocco",les deux,180,78,non
+S. El Haddad,Pineto,"AMF, LWF, CF",20.0,0,2027-06-30,11,472,1,0.95,Morocco,"Morocco, Italy",droite,175,65,oui
+Nadir El Jamali,Saint-Étienne,"RWF, RCMF",19.0,0,,20,1002,0,1.29,France,"France, Morocco",unknown,0,0,non
+I. Bouleghcha,Le Puy F.43 Auvergne,"RWB, RB, RW",23.0,0,2026-06-30,29,2042,0,1.3,France,"France, Morocco",droite,177,68,non
+Monsif,Chieti,"AMF, LAMF, LW",26.0,0,2026-06-30,18,887,4,1.74,Morocco,Morocco,droite,173,0,non
+M. Hafid,Caen,"RAMF, RCMF, AMF",21.0,0,2027-06-30,30,2369,4,2.37,France,"France, Morocco",gauche,175,72,non
+R. Belahyane,Lazio,"LCMF, RCMF",21.0,0,2029-06-30,14,700,0,0.45,France,"France, Morocco",droite,169,53,non
+Yusi,Deportivo Alavés,LB,20.0,0,2029-06-30,28,1761,0,0.76,Spain,"Spain, Morocco",gauche,170,62,non
+A. Chaikhoun,Nürnberg,"AMF, LCMF",20.0,0,2029-06-30,24,2073,2,4.24,Germany,"Germany, Morocco",droite,177,0,non
+M. Boumaaoui,Bourg-en-Bresse,CF,21.0,0,2028-06-30,21,1438,3,6.92,France,"France, Morocco",droite,187,77,oui
+A. Loune,RWD Molenbeek,"DMF, LCMF, RCMF",24.0,0,,29,2127,0,1.16,Germany,"Germany, Morocco",droite,180,80,non
+L. Houri,Universitatea Craiova,"AMF, RCMF, LCMF",30.0,0,2026-06-30,28,1181,0,0.37,France,"France, Morocco",droite,169,58,non
+I. El Kabbou,Ordino,"LW, LCMF",26.0,0,,19,1569,0,0.75,Morocco,Morocco,les deux,172,0,non
+H. Larhrib,Sammaurese,"LW, AMF, LWF",22.0,0,,23,1404,1,1.51,Morocco,"Morocco, Italy",droite,174,0,non
+W. Khribech,Foligno Calcio,"RWF, RW",31.0,0,2026-06-30,26,2180,7,6.58,Morocco,Morocco,gauche,170,0,non
+S. Jebari,Csikszereda Miercurea Ciuc,"LW, AMF, LCMF",31.0,0,,30,1354,2,1.47,Morocco,"Morocco, Spain",,175,70,non
+M. Afaker,Dordrecht,"LW, RAMF, LAMF",27.0,0,2026-06-30,24,1124,1,3.51,Netherlands,"Netherlands, Morocco",,0,0,non
+A. Tajaouart,Anderlecht,"LDMF, LCMF, AMF",20.0,0,2029-06-30,19,1465,2,2.06,Belgium,"Belgium, Morocco",droite,0,0,non
+R. M'Barki,Patro Eisden,"LW, LB",31.0,0,,28,1294,1,1.16,Belgium,"Belgium, Morocco",droite,173,68,non
+F. Harchaoui,Köln,"LDMF, LCMF, RDMF",20.0,0,2028-06-30,29,2065,1,0.85,Germany,"Germany, Morocco",droite,175,63,non
