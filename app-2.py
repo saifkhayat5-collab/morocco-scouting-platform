@@ -662,9 +662,9 @@ players["specific_position"] = players.get("specific_position", players["origina
 try:
     
     try:
-        rabie = pd.read_csv("Data/final/rabie_players_clean.csv")
+        rabie = pd.read_csv("Data/final/wyscout_kpis_players.csv")
     except FileNotFoundError:
-        rabie = pd.read_csv("Data/Final/rabie_players_clean.csv")
+        rabie = pd.read_csv("Data/Final/wyscout_kpis_players.csv")
     rabie.columns = (
         rabie.columns.astype(str)
         .str.strip().str.lower()
