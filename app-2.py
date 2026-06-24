@@ -644,10 +644,21 @@ def radar_values(row):
 # =====================================================
 
 # Robust path: works with Data/Final or Data/final
-try:
-    players = pd.read_csv("players_master_final.csv")
-except FileNotFoundError:
-    players = pd.read_csv("players_master_final.csv")
+players = None
+for _cand in [
+    "Data/final/players_master_final.csv",
+    "Data/Final/players_master_final.csv",
+    "players_master_final.csv",
+]:
+    try:
+        players = pd.read_csv(_cand)
+        break
+    except FileNotFoundError:
+        continue
+if players is None:
+    raise FileNotFoundError(
+        "No se encontro players_master_final.csv (ni en Data/final/ ni en la raiz del repo)."
+    )
 
 # Basic columns fallback
 for col in ["player", "team", "league", "position", "nationality", "dataset", "age", "elo", "market_value", "minutes", "goals", "xg"]:
@@ -661,10 +672,28 @@ players["specific_position"] = players.get("specific_position", players["origina
 # Wyscout KPI file is optional but used when present
 try:
     
-    try:
-        rabie = pd.read_csv("Data/final/wyscout_kpis_players.csv")
-    except FileNotFoundError:
-        rabie = pd.read_csv("Data/Final/wyscout_kpis_players.csv")
+    # Wyscout KPI export. Renamed rabie_players_clean.csv -> wyscout_kpis_players.csv.
+    # Probar varios nombres/mayusculas: macOS no distingue may/min, Streamlit Cloud (Linux) si.
+    rabie = None
+    for _cand in [
+        "Data/final/wyscout_kpis_players.csv",
+        "Data/Final/wyscout_kpis_players.csv",
+        "wyscout_kpis_players.csv",
+        "Data/final/rabie_players_clean.csv",
+        "Data/Final/rabie_players_clean.csv",
+        "rabie_players_clean.csv",
+    ]:
+        try:
+            rabie = pd.read_csv(_cand)
+            break
+        except FileNotFoundError:
+            continue
+    if rabie is None:
+        raise FileNotFoundError(
+            "No se encontro el archivo de KPIs de Wyscout en Data/final/ "
+            "(wyscout_kpis_players.csv). Sin el, los Scouting Score salen en modo "
+            "'Estimated' y NO coinciden con los oficiales."
+        )
     rabie.columns = (
         rabie.columns.astype(str)
         .str.strip().str.lower()
@@ -712,9 +741,17 @@ try:
                 players[col] = np.nan
             players[col] = players[col].where(players[col].notna(), players[rabie_col])
     players["data_source"] = np.where(players.get("minutes_rabie", pd.Series(index=players.index)).notna(), "Wyscout KPIs", "Estimated")
-except Exception:
+except FileNotFoundError as _e:
     players["player_key"] = players["player"].apply(clean_key)
     players["data_source"] = "Estimated"
+    st.error(f"⚠️ KPIs de Wyscout NO cargados: {_e}")
+except Exception as _e:
+    players["player_key"] = players["player"].apply(clean_key)
+    players["data_source"] = "Estimated"
+    st.warning(
+        f"⚠️ No se pudieron aplicar los KPIs de Wyscout "
+        f"({type(_e).__name__}: {_e}). Scouting Score en modo 'Estimated'."
+    )
 
 # Clean numeric data
 for col in ["age", "elo", "market_value", "minutes", "goals", "xg", "matches"]:
@@ -764,10 +801,10 @@ players["scouting_score"] = players["scouting_score"].clip(40, 88).round(1)
 # Remove duplicates: keep the best version of each player (Wyscout KPIs / key player / Europe / higher score)
 def source_priority(value):
     value = str(value).lower()
-    if "wyscout" in value:
-        return 4
     if "manual" in value:
-        return 2
+        return 4
+    if "rabie" in value:
+        return 3
     if "estimated" in value:
         return 1
     return 2
